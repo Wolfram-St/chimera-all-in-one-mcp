@@ -2,3 +2,9 @@
 /.chimera_cache/
 /telemetry.db
 mcp_config.json.bak
+*.log
+chimera_proxy.log
+chimera_registry.json
+**/node_modules/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,25 @@
+name: Registry Cron Updater
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Every day at midnight
+  workflow_dispatch:
+
+jobs:
+  update-registry:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Build Registry JSON
+        run: cargo run --bin chimera-cli -- build-registry
+        
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'chimera-bot'
+          git config --global user.email 'bot@chimera.ai'
+          git add chimera_index.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update chimera registry" && git push)

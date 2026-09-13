@@ -1,10 +1,8 @@
 {
   "mcpServers": {
-    "context7": {
-      "args": [
-        "D:\\Parasite harness\\.chimera_cache\\context7\\build/index.js"
-      ],
-      "command": "node"
+    "chimera": {
+      "command": "chimera-proxy",
+      "args": []
     }
   }
 }

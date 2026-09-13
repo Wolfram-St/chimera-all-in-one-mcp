@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chimera: All-In-One MCP Proxy & Package Manager</title>
+    <style>
+        :root {
+            --bg: #0f172a;
+            --card-bg: #1e293b;
+            --border: #334155;
+            --primary: #6366f1;
+            --primary-hover: #4f46e5;
+            --text: #f8fafc;
+            --muted: #94a3b8;
+            --accent-green: #10b981;
+            --accent-blue: #38bdf8;
+            --accent-purple: #a855f7;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            padding: 2rem;
+            display: flex;
+            justify-content: center;
+        }
+
+        .dashboard {
+            width: 100%;
+            max-width: 1100px;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 1rem;
+        }
+
+        .logo-title h1 {
+            font-size: 1.8rem;
+            background: linear-gradient(135deg, #a855f7, #6366f1, #38bdf8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .badge-status {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 14px;
+            border-radius: 9999px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            background-color: rgba(16, 185, 129, 0.15);
+            color: var(--accent-green);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+        }
+
+        /* KPI Metrics Grid */
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1rem;
+        }
+
+        .metric-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 1.25rem;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .metric-label {
+            font-size: 0.8rem;
+            color: var(--muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .metric-value {
+            font-size: 1.75rem;
+            font-weight: 700;
+        }
+
+        .metric-value.green { color: var(--accent-green); }
+        .metric-value.blue { color: var(--accent-blue); }
+        .metric-value.purple { color: var(--accent-purple); }
+
+        /* Action Panels */
+        .grid-panels {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.5rem;
+        }
+
+        @media (max-width: 800px) {
+            .grid-panels { grid-template-columns: 1fr; }
+        }
+
+        .panel {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 1.25rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .panel-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        /* Form Inputs */
+        .form-row {
+            display: flex;
+            gap: 8px;
+        }
+
+        input[type="text"], select {
+            background-color: #0f172a;
+            border: 1px solid var(--border);
+            color: var(--text);
+            padding: 10px 14px;
+            border-radius: 6px;
+            font-size: 0.95rem;
+            outline: none;
+            width: 100%;
+        }
+
+        input[type="text"]:focus, select:focus {
+            border-color: var(--primary);
+        }
+
+        button {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            padding: 10px 18px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.15s ease;
+            white-space: nowrap;
+        }
+
+        button:hover { background-color: var(--primary-hover); }
+        button.secondary {
+            background-color: #334155;
+        }
+        button.secondary:hover { background-color: #475569; }
+
+        /* Tools List */
+        .tools-list {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            max-height: 250px;
+            overflow-y: auto;
+        }
+
+        .tool-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #0f172a;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 10px 12px;
+        }
+
+        .tool-info {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+        }
+
+        .tool-name {
+            font-weight: 600;
+            font-size: 0.95rem;
+        }
+
+        .tool-command {
+            font-size: 0.75rem;
+            color: var(--muted);
+            font-family: monospace;
+        }
+
+        /* Console Log Box */
+        .console-box {
+            height: 180px;
+            background-color: #020617;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 12px;
+            font-family: monospace;
+            font-size: 0.85rem;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .log-entry {
+            color: #38bdf8;
+        }
+
+        .harness-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="dashboard">
+    <header>
+        <div class="logo-title">
+            <h1>⚡ Project Chimera Dashboard</h1>
+            <p style="color: var(--muted); font-size: 0.9rem; margin-top: 4px;">Universal MCP Proxy, Package Manager & Skill Distillation Engine</p>
+        </div>
+        <div class="badge-status" id="systemStatus">
+            ● Gateway Ready
+        </div>
+    </header>
+
+    <!-- Metrics Bar -->
+    <div class="metrics-grid">
+        <div class="metric-card">
+            <span class="metric-label">Total Invocations</span>
+            <span class="metric-value blue" id="metricTotal">0</span>
+        </div>
+        <div class="metric-card">
+            <span class="metric-label">Execution Win Rate</span>
+            <span class="metric-value green" id="metricWinRate">100%</span>
+        </div>
+        <div class="metric-card">
+            <span class="metric-label">Average Latency</span>
+            <span class="metric-value" id="metricLatency">-- ms</span>
+        </div>
+        <div class="metric-card">
+            <span class="metric-label">Token Savings</span>
+            <span class="metric-value purple" id="metricTokens">0 tokens</span>
+        </div>
+    </div>
+
+    <!-- Middle Action Panels -->
+    <div class="grid-panels">
+        <!-- Ingestion Panel -->
+        <div class="panel">
+            <div class="panel-title">
+                <span>📦 Ingest MCP Server (Zero-Install)</span>
+            </div>
+            <p style="font-size: 0.85rem; color: var(--muted);">
+                Ingest any package instantly via <code>npx:</code>, <code>uvx:</code>, or GitHub repo URL without manual configuration.
+            </p>
+            <div class="form-row">
+                <input type="text" id="installInput" placeholder="e.g. npx:@modelcontextprotocol/server-sqlite or uvx:mcp-server-git">
+                <select id="runnerSelect" style="max-width: 110px;">
+                    <option value="auto">Auto</option>
+                    <option value="npx">npx</option>
+                    <option value="uvx">uvx</option>
+                    <option value="git">git</option>
+                </select>
+            </div>
+            <button id="installBtn">Install & Register</button>
+
+            <div style="border-top: 1px solid var(--border); padding-top: 10px; margin-top: 5px;">
+                <div class="panel-title" style="font-size: 0.95rem; margin-bottom: 8px;">
+                    <span>🔌 1-Click Multi-Harness Setup</span>
+                </div>
+                <div class="harness-buttons">
+                    <button class="secondary" onclick="configureHarness('all')">All Clients</button>
+                    <button class="secondary" onclick="configureHarness('antigravity')">Antigravity</button>
+                    <button class="secondary" onclick="configureHarness('claude-desktop')">Claude</button>
+                    <button class="secondary" onclick="configureHarness('cursor')">Cursor</button>
+                    <button class="secondary" onclick="configureHarness('windsurf')">Windsurf</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Installed Tools Panel -->
+        <div class="panel">
+            <div class="panel-title">
+                <span>⚡ Active MCPs & Skill Distillation</span>
+                <button class="secondary" style="padding: 4px 10px; font-size: 0.8rem;" onclick="loadData()">Refresh</button>
+            </div>
+            <div class="tools-list" id="toolsList">
+                <div style="color: var(--muted); font-size: 0.9rem;">Loading installed MCP servers...</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Live Event Feed Console -->
+    <div class="panel">
+        <div class="panel-title">
+            <span>📡 Telemetry & Gateway Event Log</span>
+        </div>
+        <div class="console-box" id="consoleBox">
+            <div class="log-entry">[System] Chimera gateway proxy initialized. Stdio and HTTP/SSE transport ready.</div>
+        </div>
+    </div>
+</div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script>
+    const socket = io();
+    const consoleBox = document.getElementById('consoleBox');
+
+    function logMessage(text) {
+        const line = document.createElement('div');
+        line.className = 'log-entry';
+        line.textContent = `[${new Date().toLocaleTimeString()}] ${text}`;
+        consoleBox.appendChild(line);
+        consoleBox.scrollTop = consoleBox.scrollHeight;
+    }
+
+    socket.on('connect', () => {
+        logMessage('Connected to Chimera connective interface server.');
+    });
+
+    socket.on('cli-to-ui', (data) => {
+        logMessage(data.message);
+        loadData();
+    });
+
+    async function loadData() {
+        try {
+            // Load Telemetry
+            const telRes = await fetch('/api/telemetry');
+            if (telRes.ok) {
+                const telData = await telRes.json();
+                if (telData.success && telData.telemetry) {
+                    const t = telData.telemetry;
+                    document.getElementById('metricTotal').textContent = t.total_executions || 0;
+                    document.getElementById('metricWinRate').textContent = `${t.win_rate || 100}%`;
+                    document.getElementById('metricLatency').textContent = `${t.avg_latency_ms || 0} ms`;
+                    document.getElementById('metricTokens').textContent = `~${t.estimated_tokens_saved || 0} tokens`;
+                }
+            }
+
+            // Load Installed Tools
+            const toolsRes = await fetch('/api/tools');
+            if (toolsRes.ok) {
+                const toolsData = await toolsRes.json();
+                const container = document.getElementById('toolsList');
+                container.innerHTML = '';
+                
+                const tools = toolsData.tools || {};
+                const keys = Object.keys(tools);
+                if (keys.length === 0) {
+                    container.innerHTML = '<div style="color: var(--muted); font-size: 0.9rem;">No MCP servers installed yet. Add one via the left panel!</div>';
+                    return;
+                }
+
+                keys.forEach(k => {
+                    const item = tools[k];
+                    const div = document.createElement('div');
+                    div.className = 'tool-item';
+                    div.innerHTML = `
+                        <div class="tool-info">
+                            <span class="tool-name">${k}</span>
+                            <span class="tool-command">${item.command} ${(item.args || []).join(' ')}</span>
+                        </div>
+                        <button class="secondary" style="padding: 6px 12px; font-size: 0.8rem;" onclick="distillTool('${k}')">Distill Skill</button>
+                    `;
+                    container.appendChild(div);
+                });
+            }
+        } catch (err) {
+            console.error('Failed to load dashboard data:', err);
+        }
+    }
+
+    async function distillTool(toolName) {
+        logMessage(`Triggering distillation for '${toolName}'...`);
+        try {
+            const res = await fetch('/api/distill', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ tool_name: toolName })
+            });
+            const data = await res.json();
+            if (data.success) {
+                logMessage(`Distillation successful! SKILL.md written.`);
+                alert(`Skill successfully distilled for ${toolName}!`);
+            } else {
+                logMessage(`Distillation failed: ${data.error}`);
+                alert(`Notice: ${data.error}`);
+            }
+        } catch (e) {
+            logMessage(`Distill error: ${e.message}`);
+        }
+    }
+
+    async function configureHarness(client) {
+        logMessage(`Configuring harness for '${client}'...`);
+        try {
+            const res = await fetch('/api/setup', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ client })
+            });
+            const data = await res.json();
+            if (data.success) {
+                logMessage(`Configured harness for ${client} successfully!`);
+                alert(`Successfully configured ${client}!`);
+            } else {
+                logMessage(`Configuration error: ${data.error}`);
+            }
+        } catch (e) {
+            logMessage(`Setup error: ${e.message}`);
+        }
+    }
+
+    document.getElementById('installBtn').addEventListener('click', async () => {
+        const input = document.getElementById('installInput');
+        const name = input.value.trim();
+        const runner = document.getElementById('runnerSelect').value;
+        if (!name) return;
+
+        logMessage(`Submitting installation request for '${name}'...`);
+        try {
+            const res = await fetch('/api/install', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ name, runner })
+            });
+            const data = await res.json();
+            if (data.success) {
+                input.value = '';
+                logMessage(`Installation completed: ${name}`);
+                loadData();
+            } else {
+                logMessage(`Installation error: ${data.error}`);
+            }
+        } catch (e) {
+            logMessage(`Request error: ${e.message}`);
+        }
+    });
+
+    loadData();
+    setInterval(loadData, 5000);
+</script>
+</body>
+</html>
