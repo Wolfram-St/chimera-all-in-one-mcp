@@ -1,0 +1,4 @@
+/target/
+/.chimera_cache/
+/telemetry.db
+mcp_config.json.bak
