@@ -1268,6 +1268,13 @@
   },
   {
     "category": "🎨 <a name=\"art-and-culture\"></a>Art & Culture",
+    "description": "inventor-mcp MCP server](https://glama.ai/mcp/servers/effectustasi/autodesk-inventor-mcp/badges/score.svg)](https://glama.ai/mcp/servers/effectustasi/autodesk-inventor-mcp) 🐍 🏠 🪟 - Connect AI assistants to a live Autodesk Inventor session over COM: inspect bodies and features, find sliver faces in imported models, dry-run Unwrap, and script the Inventor API.",
+    "name": "effectustasi/autodesk-inventor-mcp",
+    "tags": "[![effectustasi/autodesk",
+    "url": "https://github.com/effectustasi/autodesk-inventor-mcp"
+  },
+  {
+    "category": "🎨 <a name=\"art-and-culture\"></a>Art & Culture",
     "description": "mcp MCP server](https://glama.ai/mcp/servers/fatenava/fatenava-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fatenava/fatenava-mcp) 🎖️ 📇 🏠 ☁️ 🍎 🪟 🐧 - Destiny charting: BaZi, Zi Wei Dou Shu and Western astrology natal charts, with true solar time correction and Chinese, English, Japanese and Korean input.",
     "name": "fatenava/fatenava-mcp",
     "tags": "[![fatenava",
@@ -1279,6 +1286,13 @@
     "name": "flamexnreal/davinci-resolve-ai-bridge-mcp",
     "tags": "[![flamexnreal/davinci",
     "url": "https://github.com/flamexnreal/davinci-resolve-ai-bridge-mcp"
+  },
+  {
+    "category": "🎨 <a name=\"art-and-culture\"></a>Art & Culture",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/Gatyh/3dtexel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Gatyh/3dtexel-mcp) 🎖️ 📇 ☁️ - Official 3D Texel server: search and download 7,000+ PBR materials, HDRIs, decals and 3D assets (1,600+ free CC0) and generate seamless PBR materials and HDRI skyboxes with credits.",
+    "name": "Gatyh/3dtexel-mcp",
+    "tags": "[![Gatyh/3dtexel",
+    "url": "https://github.com/Gatyh/3dtexel-mcp"
   },
   {
     "category": "🎨 <a name=\"art-and-culture\"></a>Art & Culture",
@@ -1821,6 +1835,13 @@
   },
   {
     "category": "📐 <a name=\"architecture-and-design\"></a>Architecture & Design",
+    "description": "//glama.ai/mcp/servers/Tommkruix/archprint/badges/score.svg)](https://glama.ai/mcp/servers/Tommkruix/archprint) 📇 🏠 🍎 🐧 - Report the architecture rules a TypeScript repo already follows, inferred from its import graph, with the evidence for each, and check whether a change breaks them.",
+    "name": "Tommkruix/archprint",
+    "tags": "[![Tommkruix/archprint MCP server](https",
+    "url": "https://github.com/Tommkruix/archprint"
+  },
+  {
+    "category": "📐 <a name=\"architecture-and-design\"></a>Architecture & Design",
     "description": "//glama.ai/mcp/servers/tomyangod/architecture_viewer/badges/score.svg)](https://glama.ai/mcp/servers/tomyangod/architecture_viewer) 📇 🏠 🍎 🪟 🐧 - Local architecture gate and CLI that diffs AI edits against git HEAD to detect new cross-layer dependencies and structural changes.",
     "name": "tomyangod/architecture_viewer",
     "tags": "[![tomyangod/architecture_viewer MCP server](https",
@@ -2087,6 +2108,13 @@
   },
   {
     "category": "<a name=\"bio\"></a>Biology, Medicine and Bioinformatics",
+    "description": "//glama.ai/mcp/servers/rewire-bio/genomics-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rewire-bio/genomics-mcp) 🐍 🏠 🍎 🐧 - Discover EGA, ENA, ENCODE, GEO and NCBI datasets; retrieve bounded reads, variants, sequence and signal from indexed genomic files; and query versioned reference evidence.",
+    "name": "rewire-bio/genomics-mcp",
+    "tags": "[![Genomics MCP server](https",
+    "url": "https://github.com/rewire-bio/genomics-mcp"
+  },
+  {
+    "category": "<a name=\"bio\"></a>Biology, Medicine and Bioinformatics",
     "description": "terminologies-mcp MCP server](https://glama.ai/mcp/servers/SidneyBissoli/medical-terminologies-mcp/badges/score.svg)](https://glama.ai/mcp/servers/SidneyBissoli/medical-terminologies-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Look up medical terminologies: ICD-11, LOINC, RxNorm, MeSH, ATC, Brazil's CID-10 (DataSUS) and optionally SNOMED CT.",
     "name": "SidneyBissoli/medical-terminologies-mcp",
     "tags": "[![SidneyBissoli/medical",
@@ -2199,10 +2227,10 @@
   },
   {
     "category": "📂 <a name=\"browser-automation\"></a>Browser Automation",
-    "description": "mcp MCP server](https://glama.ai/mcp/servers/Agent360dk/browser-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Agent360dk/browser-mcp) 📇 🏠 - Control your real, logged-in Chrome browser via an extension, with multiple concurrent color-coded sessions.",
-    "name": "Agent360dk/browser-mcp",
-    "tags": "[![Agent360dk/browser",
-    "url": "https://github.com/Agent360dk/browser-mcp"
+    "description": "//glama.ai/mcp/servers/Ahtasham00/tactab/badges/score.svg)](https://glama.ai/mcp/servers/Ahtasham00/tactab) 📇 🏠 - Tactile browser control and multimodal visual vision MCP bridge for Google Chrome.",
+    "name": "Ahtasham00/tactab",
+    "tags": "[![Ahtasham00/tactab MCP server](https",
+    "url": "https://github.com/Ahtasham00/tactab"
   },
   {
     "category": "📂 <a name=\"browser-automation\"></a>Browser Automation",
@@ -2395,6 +2423,13 @@
   },
   {
     "category": "📂 <a name=\"browser-automation\"></a>Browser Automation",
+    "description": "huang799/duplex MCP server](https://glama.ai/mcp/servers/Eric-huang799/duplex/badges/score.svg)](https://glama.ai/mcp/servers/Eric-huang799/duplex) 📇 🏠 🍎 🪟 🐧 - A browser shared by a human and an AI — same tabs, same live session; 24 MCP tools (snapshot, click, type, screenshot, tabs, annotations), built-in models or any MCP client, Esc takeover.",
+    "name": "Eric-huang799/duplex",
+    "tags": "[![Eric",
+    "url": "https://github.com/Eric-huang799/duplex"
+  },
+  {
+    "category": "📂 <a name=\"browser-automation\"></a>Browser Automation",
     "description": "Browser automation and web scraping using Playwright.",
     "name": "executeautomation/playwright-mcp-server",
     "tags": "📇",
@@ -2469,6 +2504,13 @@
     "name": "sh6drack/zen-mcp",
     "tags": "[![sh6drack/zen",
     "url": "https://github.com/sh6drack/zen-mcp"
+  },
+  {
+    "category": "📂 <a name=\"browser-automation\"></a>Browser Automation",
+    "description": "buddy MCP server](https://glama.ai/mcp/servers/hahahahahahahahah6/browser-buddy/badges/score.svg)](https://glama.ai/mcp/servers/hahahahahahahahah6/browser-buddy) 🐍 - MCP server + Chrome extension (MV3) that lets coding agents read pages through the user's real, logged-in Chrome; stdlib-only, local.",
+    "name": "hahahahahahahahah6/browser-buddy",
+    "tags": "[![hahahahahahahahah6/browser",
+    "url": "https://github.com/hahahahahahahahah6/browser-buddy"
   },
   {
     "category": "📂 <a name=\"browser-automation\"></a>Browser Automation",
@@ -2731,6 +2773,13 @@
   },
   {
     "category": "📂 <a name=\"browser-automation\"></a>Browser Automation",
+    "description": "Tech-Sphere/usable-browser-agent-free MCP server](https://glama.ai/mcp/servers/Savvy-Tech-Sphere/usable-browser-agent-free/badges/score.svg)](https://glama.ai/mcp/servers/Savvy-Tech-Sphere/usable-browser-agent-free) 📇 🏠 🍎 - MCP server plus Firefox add-on that lets your agent work in your real, logged-in Firefox: accessibility snapshots with stable element refs, logins filled by alias from a local vault, hardened mode by default. Free for personal use.",
+    "name": "Savvy-Tech-Sphere/usable-browser-agent-free",
+    "tags": "[![Savvy",
+    "url": "https://github.com/Savvy-Tech-Sphere/usable-browser-agent-free"
+  },
+  {
+    "category": "📂 <a name=\"browser-automation\"></a>Browser Automation",
     "description": "mcp MCP server](https://glama.ai/mcp/servers/ScrapeUnblocker/scrapeunblocker-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ScrapeUnblocker/scrapeunblocker-mcp) 📇 🏠 🍎 🪟 🐧 - Fetch web page HTML, AI-parsed JSON or Google results through the ScrapeUnblocker anti-bot API.",
     "name": "ScrapeUnblocker/scrapeunblocker-mcp",
     "tags": "[![ScrapeUnblocker/scrapeunblocker",
@@ -2882,6 +2931,13 @@
     "name": "CapMonsterCloud/capmonster-mcp-captcha-solver",
     "tags": "[![CapMonsterCloud/capmonster",
     "url": "https://github.com/CapMonsterCloud/capmonster-mcp-captcha-solver"
+  },
+  {
+    "category": "☁️ <a name=\"cloud-platforms\"></a>Cloud Platforms",
+    "description": "keycloak MCP server](https://glama.ai/mcp/servers/dockndevai/mcp-keycloak/badges/score.svg)](https://glama.ai/mcp/servers/dockndevai/mcp-keycloak) 📇 🏠 🍎 🪟 🐧 - Keycloak multi-realm admin (users, clients, roles, groups) — safe-by-default access modes, realm allowlists, protected realms, delete gating, dry-run, and audit logging. `npx -y @dockndevai/mcp-keycloak`",
+    "name": "dockndevai/mcp-keycloak",
+    "tags": "[![dockndevai/mcp",
+    "url": "https://github.com/dockndevai/mcp-keycloak"
   },
   {
     "category": "☁️ <a name=\"cloud-platforms\"></a>Cloud Platforms",
@@ -3326,6 +3382,13 @@
   },
   {
     "category": "☁️ <a name=\"cloud-platforms\"></a>Cloud Platforms",
+    "description": "Yamashita01/cloudflare-mcp-go MCP server](https://glama.ai/mcp/servers/M-Yamashita01/cloudflare-mcp-go/badges/score.svg)](https://glama.ai/mcp/servers/M-Yamashita01/cloudflare-mcp-go) 🏎️ ☁️ - Cloudflare API v4 server: 28 tools across zones, DNS, WAF/firewall, rate limits, HTTP request logs, Security Center insights, and threat intelligence (IP/domain/ASN/WHOIS/passive DNS). Currently read-only. Install with `go run github.com/M-Yamashita01/cloudflare-mcp-go@latest`.",
+    "name": "M-Yamashita01/cloudflare-mcp-go",
+    "tags": "[![M",
+    "url": "https://github.com/M-Yamashita01/cloudflare-mcp-go"
+  },
+  {
+    "category": "☁️ <a name=\"cloud-platforms\"></a>Cloud Platforms",
     "description": "Kubernetes and OpenShift management: CRUD operations on any resource plus specialized cluster tools.",
     "name": "manusa/Kubernetes MCP Server",
     "tags": "🏎️ 🏠",
@@ -3400,6 +3463,13 @@
     "name": "nwiizo/tfmcp",
     "tags": "🦀 🏠",
     "url": "https://github.com/nwiizo/tfmcp"
+  },
+  {
+    "category": "☁️ <a name=\"cloud-platforms\"></a>Cloud Platforms",
+    "description": "MCP MCP server](https://glama.ai/mcp/servers/oborseth/Porkbun-MCP/badges/score.svg)](https://glama.ai/mcp/servers/oborseth/Porkbun-MCP) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Official Porkbun server: domain availability and pricing, registration and renewals, DNS records, nameservers, DNSSEC, URL forwarding, DNS restore points, static hosting deploys and Cloudflare-connected domains. Also hosted at https://mcp.porkbun.com/mcp with Porkbun sign-in.",
+    "name": "oborseth/Porkbun-MCP",
+    "tags": "[![oborseth/Porkbun",
+    "url": "https://github.com/oborseth/Porkbun-MCP"
   },
   {
     "category": "☁️ <a name=\"cloud-platforms\"></a>Cloud Platforms",
@@ -3946,6 +4016,13 @@
     "name": "agent-blueprint/mcp-server",
     "tags": "[![agent",
     "url": "https://github.com/agent-blueprint/mcp-server"
+  },
+  {
+    "category": "🤖 <a name=\"coding-agents\"></a>Coding Agents",
+    "description": "session-relay MCP server](https://glama.ai/mcp/servers/dimitrihilverda/claude-session-relay/badges/score.svg)](https://glama.ai/mcp/servers/dimitrihilverda/claude-session-relay) ☁️ 🍎 🪟 🐧 - Self-hosted relay where coding-agent sessions on different machines share a team board, message each other and check for git conflicts, with isolated teams, private sessions and an OAuth MCP endpoint for Claude in the cloud.",
+    "name": "dimitrihilverda/claude-session-relay",
+    "tags": "[![dimitrihilverda/claude",
+    "url": "https://github.com/dimitrihilverda/claude-session-relay"
   },
   {
     "category": "🤖 <a name=\"coding-agents\"></a>Coding Agents",
@@ -4831,6 +4908,13 @@
   },
   {
     "category": "💬 <a name=\"communication\"></a>Communication",
+    "description": "//glama.ai/mcp/servers/belaytzev/Telebrief/badges/score.svg)](https://glama.ai/mcp/servers/belaytzev/Telebrief) 🐍 🏠 - Self-hosted digests of your Telegram channels over MCP: AI summaries, the last digest and raw per-channel messages, with OpenAI, Anthropic or Ollama.",
+    "name": "belaytzev/Telebrief",
+    "tags": "[![belaytzev/Telebrief MCP server](https",
+    "url": "https://github.com/belaytzev/Telebrief"
+  },
+  {
+    "category": "💬 <a name=\"communication\"></a>Communication",
     "description": "letter MCP server](https://glama.ai/mcp/servers/BigCactusLabs/dead-letter/badges/score.svg)](https://glama.ai/mcp/servers/BigCactusLabs/dead-letter) 🐍 🏠 - Convert .eml exports to Markdown with YAML front matter for RAG pipelines: thread splitting, signature stripping, attachment extraction and calendar parsing.",
     "name": "BigCactusLabs/dead-letter",
     "tags": "[![BigCactusLabs/dead",
@@ -5279,6 +5363,13 @@
   },
   {
     "category": "💬 <a name=\"communication\"></a>Communication",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/jamalofski/mailprobe-mcp/badges/score.svg)](https://glama.ai/mcp/servers/jamalofski/mailprobe-mcp) [![MailProbe MCP connector](https://glama.ai/mcp/connectors/dev.mailprobe/mailprobe/badges/score.svg)](https://glama.ai/mcp/connectors/dev.mailprobe/mailprobe) 🎖️ 📇 ☁️ 🏠 - Email verification in real time, without sending anything: a valid, risky, invalid or unknown status with a score, disposable, role-based and catch-all detection, and typo suggestions. Remote server or local stdio package, hosted in France.",
+    "name": "jamalofski/mailprobe-mcp",
+    "tags": "[![jamalofski/mailprobe",
+    "url": "https://github.com/jamalofski/mailprobe-mcp"
+  },
+  {
+    "category": "💬 <a name=\"communication\"></a>Communication",
     "description": "Send bots to browser-based meetings (Zoom, Teams, Google Meet) to gather live transcripts, speak text and post in the meeting chat.",
     "name": "joinly-ai/joinly",
     "tags": "🐍 ☁️",
@@ -5636,6 +5727,13 @@
   },
   {
     "category": "💬 <a name=\"communication\"></a>Communication",
+    "description": "//glama.ai/mcp/servers/@sdyuyouth/agenthop/badges/score.svg)](https://glama.ai/mcp/servers/@sdyuyouth/agenthop) 📇 ☁️ 🏠 🍎 🪟 🐧 - Let two agents on machines with no public address talk directly: pair with a short code over an end-to-end encrypted relay (hosted or self-hosted), send files, and invite saved contacts by name.",
+    "name": "sdyuyouth/agenthop",
+    "tags": "[![sdyuyouth/agenthop MCP server](https",
+    "url": "https://github.com/sdyuyouth/agenthop"
+  },
+  {
+    "category": "💬 <a name=\"communication\"></a>Communication",
     "description": "hey MCP server](https://glama.ai/mcp/servers/Sealjay/mcp-hey/badges/score.svg)](https://glama.ai/mcp/servers/Sealjay/mcp-hey) 📇 🏠 🍎 - Local access to Hey.com email via a cached session: read, search, send, reply and manage the Screener.",
     "name": "Sealjay/mcp-hey",
     "tags": "[![Sealjay/mcp",
@@ -5906,6 +6004,13 @@
     "name": "Aleksey-Panf/b2b-enrichment-mcp",
     "tags": "[![Aleksey",
     "url": "https://github.com/Aleksey-Panf/b2b-enrichment-mcp"
+  },
+  {
+    "category": "👤 <a name=\"customer-data-platforms\"></a>Customer Data Platforms",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/anpekesen/namegender-mcp/badges/score.svg)](https://glama.ai/mcp/servers/anpekesen/namegender-mcp) 🎖️ 📇 ☁️ - Gender from names, emails and usernames via NameGender, with probability, sample size and source on every answer, bulk lookups of up to 100 values and the countries a name is recorded in.",
+    "name": "anpekesen/namegender-mcp",
+    "tags": "[![anpekesen/namegender",
+    "url": "https://github.com/anpekesen/namegender-mcp"
   },
   {
     "category": "👤 <a name=\"customer-data-platforms\"></a>Customer Data Platforms",
@@ -6686,6 +6791,13 @@
   },
   {
     "category": "🗄️ <a name=\"databases\"></a>Databases",
+    "description": "mcp-lite MCP server](https://glama.ai/mcp/servers/scoretracker4321/json-mcp-lite/badges/score.svg)](https://glama.ai/mcp/servers/scoretracker4321/json-mcp-lite) 📇 🏠 🍎 🪟 🐧 - Serve any JSON file (catalogue, FAQ, price list) as read-only list, keyword search and get-by-id tools over stdio, configured with CLI flags.",
+    "name": "scoretracker4321/json-mcp-lite",
+    "tags": "[![scoretracker4321/json",
+    "url": "https://github.com/scoretracker4321/json-mcp-lite"
+  },
+  {
+    "category": "🗄️ <a name=\"databases\"></a>Databases",
     "description": "inspector-mcp MCP server](https://glama.ai/mcp/servers/Yusufihsangorgel/queue-inspector-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Yusufihsangorgel/queue-inspector-mcp) 📇 🏠 - Inspect and operate Redis-backed Asynq and BullMQ job queues: per-state counts, decoded job payloads and errors, retry and delete, with a read-only mode.",
     "name": "Yusufihsangorgel/queue-inspector-mcp",
     "tags": "[![Yusufihsangorgel/queue",
@@ -7351,6 +7463,13 @@
   },
   {
     "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
+    "description": "error-explainers MCP server](https://glama.ai/mcp/servers/mahdibrr/dev-error-explainers/badges/score.svg)](https://glama.ai/mcp/servers/mahdibrr/dev-error-explainers) 📇 🏠 🍎 🪟 🐧 - Explains known developer errors offline and deterministically (CORS, ESM/CommonJS, npm ERESOLVE, Next.js build, Postgres connection and DATABASE_URL errors): cause, ranked fixes and the documentation link. One tool, no LLM, no network.",
+    "name": "mahdibrr/dev-error-explainers",
+    "tags": "[![mahdibrr/dev",
+    "url": "https://github.com/mahdibrr/dev-error-explainers"
+  },
+  {
+    "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
     "description": "dev/mcp-context-condenser MCP server](https://glama.ai/mcp/servers/rafim-dev/mcp-context-condenser/badges/score.svg)](https://glama.ai/mcp/servers/rafim-dev/mcp-context-condenser) 📇 🏠 🍎 🪟 🐧 - AST-based code outliner, log compressor and context budget analyzer to reduce LLM token usage.",
     "name": "rafim-dev/mcp-context-condenser",
     "tags": "[![rafim",
@@ -7509,6 +7628,13 @@
     "name": "TomD4vs/prumo",
     "tags": "[![TomD4vs/prumo MCP server](https",
     "url": "https://github.com/TomD4vs/prumo"
+  },
+  {
+    "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
+    "description": "ui MCP server](https://glama.ai/mcp/servers/vamsiy78/ballmac-ui/badges/score.svg)](https://glama.ai/mcp/servers/vamsiy78/ballmac-ui) 📇 🏠 🍎 🪟 🐧 - Search, inspect and install Ballmac UI React + Tailwind components, blocks and templates, with props, keyboard notes and the exact shadcn install command, and plan whole pages from blocks.",
+    "name": "vamsiy78/ballmac-ui",
+    "tags": "[![vamsiy78/ballmac",
+    "url": "https://github.com/vamsiy78/ballmac-ui"
   },
   {
     "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
@@ -8597,6 +8723,13 @@
   },
   {
     "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/engineerdeep/buildtree-mcp/badges/score.svg)](https://glama.ai/mcp/servers/engineerdeep/buildtree-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Share Android and iOS builds with testers: detects Expo, React Native or Flutter, runs the build, uploads the .apk or .ipa to buildtree, and returns install links, a QR code image and tester feedback.",
+    "name": "engineerdeep/buildtree-mcp",
+    "tags": "[![engineerdeep/buildtree",
+    "url": "https://github.com/engineerdeep/buildtree-mcp"
+  },
+  {
+    "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
     "description": "Exposes .context/ folder files as MCP resources so Claude Code can reference project documentation via @ mentions.",
     "name": "ericbrown/project-context-mcp",
     "tags": "🐍 🏠",
@@ -8678,6 +8811,13 @@
     "name": "GeiserX/lynxprompt-mcp",
     "tags": "[![GeiserX/lynxprompt",
     "url": "https://github.com/GeiserX/lynxprompt-mcp"
+  },
+  {
+    "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
+    "description": "//glama.ai/mcp/servers/getdomovoi/osnova/badges/score.svg)](https://glama.ai/mcp/servers/getdomovoi/osnova) 📇 🏠 🍎 🪟 🐧 - Deterministic code map for AI coding agents: a tree-sitter symbol and call graph with exact file:line callers and callees, the evidence behind each edge, diff impact and test discovery across 20 languages.",
+    "name": "getdomovoi/osnova",
+    "tags": "[![getdomovoi/osnova MCP server](https",
+    "url": "https://github.com/getdomovoi/osnova"
   },
   {
     "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
@@ -9080,6 +9220,13 @@
   },
   {
     "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
+    "description": "//glama.ai/mcp/servers/josifb/whichlib/badges/score.svg)](https://glama.ai/mcp/servers/josifb/whichlib) 📇 🏠 🍎 🪟 🐧 - Dependency picker for coding agents: recommends and compares GitHub repos for a need, scored 0-100 on momentum, maintenance, npm/PyPI downloads and license, with a one-line verdict.",
+    "name": "josifb/whichlib",
+    "tags": "[![josifb/whichlib MCP server](https",
+    "url": "https://github.com/josifb/whichlib"
+  },
+  {
+    "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
     "description": "Access shadcn/ui v4 components, blocks, demos and metadata.",
     "name": "Jpisnice/shadcn-ui-mcp-server",
     "tags": "📇 🏠",
@@ -9161,6 +9308,13 @@
     "name": "kindly-software/kdb",
     "tags": "🦀 ☁️",
     "url": "https://github.com/kindly-software/kdb"
+  },
+  {
+    "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/kirich1409/maven-mcp/badges/score.svg)](https://glama.ai/mcp/servers/kirich1409/maven-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - MCP server / agent plugin for Maven and Gradle dependency intelligence: latest versions, outdated deps, CVEs, changelogs, licenses and project audits.",
+    "name": "kirich1409/maven-mcp",
+    "tags": "[![kirich1409/maven",
+    "url": "https://github.com/kirich1409/maven-mcp"
   },
   {
     "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
@@ -10109,6 +10263,13 @@
   },
   {
     "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
+    "description": "//glama.ai/mcp/servers/tenatarika/vex/badges/score.svg)](https://glama.ai/mcp/servers/tenatarika/vex) 🦀 🏠 🍎 🪟🐧 - Local code search over a tree-sitter index: exact symbol lookup, scope-aware usages, call graph and impact analysis, AST patterns, indexed grep and semantic search across 19 languages.",
+    "name": "tenatarika/vex",
+    "tags": "[![tenatarika/vex MCP server](https",
+    "url": "https://github.com/tenatarika/vex"
+  },
+  {
+    "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
     "description": "Deploy HTML content to EdgeOne Pages and get a public URL.",
     "name": "TencentEdgeOne/edgeone-pages-mcp",
     "tags": "📇 ☁️",
@@ -10836,6 +10997,13 @@
     "url": "https://github.com/motock/fagan"
   },
   {
+    "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
+    "description": "c/opengist-mcp MCP server](https://glama.ai/mcp/servers/ni-c/opengist-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ni-c/opengist-mcp) 📇 🏠 🍎 🪟 🐧 - Read, search, create, update and delete gists on your own [Opengist](https://github.com/thomiceli/opengist) instance — the self-hosted pastebin powered by Git. File contents and revisions, commit history, forks and likes. Bounded results, untrusted-content markers, and a server-issued confirmation token on everything that deletes or publishes. `npx -y opengist-mcp`",
+    "name": "ni-c/opengist-mcp",
+    "tags": "[![ni",
+    "url": "https://github.com/ni-c/opengist-mcp"
+  },
+  {
     "category": "🔒 <a name=\"delivery\"></a>Delivery",
     "description": "x-Tech/mcp-yandex-dostavka MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-yandex-dostavka/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-yandex-dostavka) 📇 ☁️ - Yandex Delivery B2B API: express-courier claims (price check, create, track, cancel) and pickup-point/NDD orders.",
     "name": "A1-x-Tech/mcp-yandex-dostavka",
@@ -11222,6 +11390,13 @@
   },
   {
     "category": "🧮 <a name=\"data-science-tools\"></a>Data Science Tools",
+    "description": "AI/ephemeris-mcp MCP server](https://glama.ai/mcp/servers/TensorLink-AI/ephemeris-mcp/badges/score.svg)](https://glama.ai/mcp/servers/TensorLink-AI/ephemeris-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Probabilistic time-series forecasting: quantile forecasts from Chronos-2, TimesFM 2.5, Toto 2, TiRex-2 and IBM Granite foundation models, routed to one model, named explicitly, or ensembled. Remote server with an npm stdio bridge.",
+    "name": "TensorLink-AI/ephemeris-mcp",
+    "tags": "[![TensorLink",
+    "url": "https://github.com/TensorLink-AI/ephemeris-mcp"
+  },
+  {
+    "category": "🧮 <a name=\"data-science-tools\"></a>Data Science Tools",
     "description": "mcp MCP server](https://glama.ai/mcp/servers/@98lukehall/renoun-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@98lukehall/renoun-mcp) 🐍 ☁️ - Structural observability for AI conversations: detects loops, stuck states, breakthroughs and convergence without analyzing content.",
     "name": "98lukehall/renoun-mcp",
     "tags": "[![renoun",
@@ -11597,6 +11772,13 @@
     "name": "anhmtk/agentshare-mcp",
     "tags": "[![anhmtk/agentshare",
     "url": "https://github.com/anhmtk/agentshare-mcp"
+  },
+  {
+    "category": "🛒 <a name=\"e-commerce\"></a>E-Commerce",
+    "description": "app/agent-kit MCP server](https://glama.ai/mcp/servers/apiguru-app/agent-kit/badges/score.svg)](https://glama.ai/mcp/servers/apiguru-app/agent-kit) 🎖️ 🐍 ☁️ 🏠 - Live Amazon marketplace data across 20 countries: product details, reviews, keyword search, best-sellers, deals, offers/buy box/stock and seller profiles. Hosted keyless endpoint (free calls, then x402 pay-per-call in USDC) or an API key; also runs locally via `uvx apiguru-mcp`.",
+    "name": "apiguru-app/agent-kit",
+    "tags": "[![apiguru",
+    "url": "https://github.com/apiguru-app/agent-kit"
   },
   {
     "category": "🛒 <a name=\"e-commerce\"></a>E-Commerce",
@@ -12066,6 +12248,13 @@
     "name": "Kookerella-Ltd/Kookerella.FsOpenXmlDsl",
     "tags": "[![Kookerella",
     "url": "https://github.com/Kookerella-Ltd/Kookerella.FsOpenXmlDsl/tree/master/src/Kookerella.FsOpenXmlDsl.Mcp"
+  },
+  {
+    "category": "📂 <a name=\"file-systems\"></a>File Systems",
+    "description": "Jovi/keyhole MCP server](https://glama.ai/mcp/servers/L-Jovi/keyhole/badges/score.svg)](https://glama.ai/mcp/servers/L-Jovi/keyhole) 🐍 🏠 🍎 🐧 - Give a private ChatGPT app access to selected local folders through OpenAI Secure MCP Tunnel, with per-folder permissions, hash-checked edits and recovery. No shell or public port.",
+    "name": "L-Jovi/keyhole",
+    "tags": "[![L",
+    "url": "https://github.com/L-Jovi/keyhole"
   },
   {
     "category": "📂 <a name=\"file-systems\"></a>File Systems",
@@ -12766,6 +12955,13 @@
     "name": "bankless/onchain-mcp",
     "tags": "📇 ☁️",
     "url": "https://github.com/Bankless/onchain-mcp/"
+  },
+  {
+    "category": "💰 <a name=\"finance--fintech\"></a>Finance & Fintech",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/barkermoney/barker-mcp/badges/score.svg)](https://glama.ai/mcp/servers/barkermoney/barker-mcp) 🎖️ 📇 ☁️ - Barker's real-time stablecoin yield index across DeFi and CEX earn, with a yield advisor, risk signals and deposit/redeem quotes. Remote MCP, x402 pay-per-call.",
+    "name": "barkermoney/barker-mcp",
+    "tags": "[![barkermoney/barker",
+    "url": "https://github.com/barkermoney/barker-mcp"
   },
   {
     "category": "💰 <a name=\"finance--fintech\"></a>Finance & Fintech",
@@ -14708,6 +14904,13 @@
   },
   {
     "category": "💰 <a name=\"finance--fintech\"></a>Finance & Fintech",
+    "description": "//glama.ai/mcp/servers/simoncoombes/tradefloor/badges/score.svg)](https://glama.ai/mcp/servers/simoncoombes/tradefloor) 🐍 🦀 🏠 🍎 🪟 🐧 - Simulated stock markets with an order book and an economy for testing trading agents: evaluate, rank and stress-test strategies across many reproducible markets.",
+    "name": "simoncoombes/tradefloor",
+    "tags": "[![simoncoombes/tradefloor MCP server](https",
+    "url": "https://github.com/simoncoombes/tradefloor"
+  },
+  {
+    "category": "💰 <a name=\"finance--fintech\"></a>Finance & Fintech",
     "description": "mcp-server MCP server](https://glama.ai/mcp/servers/smythmyke/govtoolspro-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/smythmyke/govtoolspro-mcp-server) 📇 ☁️ - Tools for US federal contractors: go/no-go bid scoring, incumbent research, teaming-partner search, recompete prediction and SAM.gov solicitations.",
     "name": "smythmyke/govtoolspro-mcp-server",
     "tags": "[![smythmyke/govtoolspro",
@@ -14887,13 +15090,6 @@
     "name": "yamariki-hub/japan-corporate-mcp",
     "tags": "🐍 ☁️",
     "url": "https://github.com/yamariki-hub/japan-corporate-mcp"
-  },
-  {
-    "category": "💰 <a name=\"finance--fintech\"></a>Finance & Fintech",
-    "description": "stablecoin-skills MCP server](https://glama.ai/mcp/servers/YBSbarker/barker-stablecoin-skills/badges/score.svg)](https://glama.ai/mcp/servers/YBSbarker/barker-stablecoin-skills) 🎖️ 📇 ☁️ - Real-time stablecoin yield index across DeFi protocols and CEX earn programs, with a yield advisor, risk signals and non-custodial deposit/redeem quotes.",
-    "name": "YBSbarker/barker-stablecoin-skills",
-    "tags": "[![YBSbarker/barker",
-    "url": "https://github.com/YBSbarker/barker-stablecoin-skills"
   },
   {
     "category": "💰 <a name=\"finance--fintech\"></a>Finance & Fintech",
@@ -15218,6 +15414,13 @@
     "url": "https://github.com/tillbooks/tillbooks"
   },
   {
+    "category": "💰 <a name=\"finance--fintech\"></a>Finance & Fintech",
+    "description": "droid/signal-scanner MCP server](https://glama.ai/mcp/servers/cstamigo-droid/signal-scanner/badges/score.svg)](https://glama.ai/mcp/servers/cstamigo-droid/signal-scanner) 🐍 🏠 - Rule-based stock/crypto screener: define signals in YAML (RSI, SMA cross, volume, 52-week levels), scan a watchlist over keyless yfinance data, and get matches via MCP, console or Telegram.",
+    "name": "cstamigo-droid/signal-scanner",
+    "tags": "[![cstamigo",
+    "url": "https://github.com/cstamigo-droid/signal-scanner"
+  },
+  {
     "category": "🎮 <a name=\"gaming\"></a>Gaming",
     "description": "ai/gamenumerics MCP server](https://glama.ai/mcp/servers/26048608982lp-ai/gamenumerics/badges/score.svg)](https://glama.ai/mcp/servers/26048608982lp-ai/gamenumerics) 📇 🏠 🍎 🪟 🐧 - Game balance design and auditing: import xlsx config tables, audit growth curves, simulate battle and gacha systems, and reverse-engineer spreadsheet formulas.",
     "name": "26048608982lp-ai/gamenumerics",
@@ -15300,6 +15503,13 @@
     "name": "ddsky/gamebrain-api-clients",
     "tags": "☁️",
     "url": "https://github.com/ddsky/gamebrain-api-clients"
+  },
+  {
+    "category": "🎮 <a name=\"gaming\"></a>Gaming",
+    "description": "quint MCP server](https://glama.ai/mcp/servers/dearlordylord/5e-quint/badges/score.svg)](https://glama.ai/mcp/servers/dearlordylord/5e-quint) 📇 🏠 - D&D 5e SRD 5.2.1 game engine: create characters and run turn-based battles through MCP, backed by Quint formal models, rule-level proofs, and model-based testing.",
+    "name": "dearlordylord/5e-quint",
+    "tags": "[![dearlordylord/5e",
+    "url": "https://github.com/dearlordylord/5e-quint"
   },
   {
     "category": "🎮 <a name=\"gaming\"></a>Gaming",
@@ -15695,6 +15905,13 @@
   },
   {
     "category": "🏥 <a name=\"health-and-wellness\"></a>Health & Wellness",
+    "description": "mcp-server MCP server](https://glama.ai/mcp/servers/Philongevity/phi-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Philongevity/phi-mcp-server) 📇 ☁️ - Guideline-cited lab-results analysis for chronic conditions (type 2 diabetes, kidney, lupus, cancer survivorship): flags missing or overdue tests with the guideline cited. Free sample report; synthetic/de-identified values only.",
+    "name": "Philongevity/phi-mcp-server",
+    "tags": "[![Philongevity/phi",
+    "url": "https://github.com/Philongevity/phi-mcp-server"
+  },
+  {
+    "category": "🏥 <a name=\"health-and-wellness\"></a>Health & Wellness",
     "description": "export-mcp MCP server](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp) 🍎 🏠 - Read-only, local-first queries of Apple Health metrics.",
     "name": "io.github.PhilipAD/health-export-mcp",
     "tags": "[![io.github.PhilipAD/health",
@@ -15778,6 +15995,13 @@
     "url": "https://github.com/alexpfau/zigbee2mqtt-mcp"
   },
   {
+    "category": "🏠 <a name=\"home-automation\"></a>Home Automation",
+    "description": "camera-mcp MCP server](https://glama.ai/mcp/servers/AbhijatSaxena/blink-camera-mcp/badges/score.svg)](https://glama.ai/mcp/servers/AbhijatSaxena/blink-camera-mcp) 🐍 ☁️ 🏠 🪟 🐧 - Control Amazon Blink cameras and their pan/tilt mount: read where the camera is pointing and its travel limits, aim it by absolute or relative angle with the new position confirmed by the hardware, return it home, and grab a snapshot. The mount's command channel is undocumented, so it was recovered from the Blink app's bytecode and verified against a real camera. `uvx blink-camera-mcp`",
+    "name": "AbhijatSaxena/blink-camera-mcp",
+    "tags": "[![AbhijatSaxena/blink",
+    "url": "https://github.com/AbhijatSaxena/blink-camera-mcp"
+  },
+  {
     "category": "🪪 <a name=\"identity\"></a>Identity",
     "description": "tools/Identity-AIops MCP server](https://glama.ai/mcp/servers/AIops-tools/Identity-AIops/badges/score.svg)](https://glama.ai/mcp/servers/AIops-tools/Identity-AIops) 🐍 🏠 - Keycloak and Authentik SSO/IAM operations: root-cause analysis for login, permission, client and MFA issues, plus guarded writes with audit logs and rollback.",
     "name": "AIops-tools/Identity-AIops",
@@ -15828,6 +16052,13 @@
   },
   {
     "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
+    "description": "visner/stellarjay MCP server](https://glama.ai/mcp/servers/kyle-visner/stellarjay/badges/score.svg)](https://glama.ai/mcp/servers/kyle-visner/stellarjay) 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - Safe write access for AI agents: an append-only business fact store where every change is kept, attributed to the agent that made it, and can be undone (`undo_changes`). Self-host with `stellarjay-mcp` or use the hosted AvianSuite server.",
+    "name": "kyle-visner/stellarjay",
+    "tags": "[![kyle",
+    "url": "https://github.com/kyle-visner/stellarjay"
+  },
+  {
+    "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
     "description": "mcp MCP server](https://glama.ai/mcp/servers/dockndevai/ossian-mcp/badges/score.svg)](https://glama.ai/mcp/servers/dockndevai/ossian-mcp) 📇 🏠 🍎 🪟 🐧 - RAG over your own documents with cited passages, plus durable agent memory ranked by relevance, importance and recency; read-only by default.",
     "name": "dockndevai/ossian-mcp",
     "tags": "[![dockndevai/ossian",
@@ -15853,6 +16084,13 @@
     "name": "bborota/cairn-mcp",
     "tags": "[![bborota/cairn",
     "url": "https://github.com/bborota/cairn-mcp"
+  },
+  {
+    "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
+    "description": "T-D-N/agentmemory-codex-windows MCP server](https://glama.ai/mcp/servers/M-T-D-N/agentmemory-codex-windows/badges/score.svg)](https://glama.ai/mcp/servers/M-T-D-N/agentmemory-codex-windows) 📇 🏠 🪟 - Windows AgentMemory downstream for Codex with project-scoped persistent memory, bounded cross-project recall, and an authenticated loopback MCP service; prebuilt Windows releases are available as an unsigned Technical Preview.",
+    "name": "M-T-D-N/agentmemory-codex-windows",
+    "tags": "[![M",
+    "url": "https://github.com/M-T-D-N/agentmemory-codex-windows"
   },
   {
     "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
@@ -16934,6 +17172,13 @@
   },
   {
     "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
+    "description": "Of/vivac MCP server](https://glama.ai/mcp/servers/JAAvila-Of/vivac/badges/score.svg)](https://glama.ai/mcp/servers/JAAvila-Of/vivac) 🦀 🏠 🍎 🪟 🐧 - A provenance tree for coding agents: every node records the node it was born from, so the agent can ask why the work is where it is. A session brief with the standing decisions and what not to touch, a close that refuses over open work, and decisions kept with the alternatives they rejected. Local JSON-lines file, no telemetry.",
+    "name": "JAAvila-Of/vivac",
+    "tags": "[![JAAvila",
+    "url": "https://github.com/JAAvila-Of/vivac"
+  },
+  {
+    "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
     "description": "mcp MCP server](https://glama.ai/mcp/servers/jaimenbell/rag-mcp/badges/score.svg)](https://glama.ai/mcp/servers/jaimenbell/rag-mcp) 🐍 🏠 - Minimal local RAG that vector-searches a document corpus and returns cited passages.",
     "name": "jaimenbell/rag-mcp",
     "tags": "[![jaimenbell/rag",
@@ -17050,6 +17295,13 @@
     "name": "kunwar-shah/claudex",
     "tags": "[![kunwar",
     "url": "https://github.com/kunwar-shah/claudex"
+  },
+  {
+    "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
+    "description": "//glama.ai/mcp/servers/Kyrzin/kybase/badges/score.svg)](https://glama.ai/mcp/servers/Kyrzin/kybase) 📇 🏠 🍎 🪟 🐧 - Self-hosted Markdown knowledge base that doubles as persistent memory for AI agents: a notes app you browse and edit (wikilinks, backlinks, graph), 18 MCP tools over Streamable HTTP with OAuth (works as a claude.ai connector) or stdio. Hybrid search (Postgres full-text + pgvector, RRF, optional reranker) with section-level reads and conflict-safe appends. `npx -y kybase-mcp`",
+    "name": "Kyrzin/kybase",
+    "tags": "[![Kyrzin/kybase MCP server](https",
+    "url": "https://github.com/Kyrzin/kybase"
   },
   {
     "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
@@ -18123,6 +18375,13 @@
     "url": "https://github.com/dat999zx/knowl"
   },
   {
+    "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
+    "description": "//glama.ai/mcp/servers/memokar/brainy/badges/score.svg)](https://glama.ai/mcp/servers/memokar/brainy) 🎖️ 🐍 🏠 🐧 - Self-hosted shared brain for multiple agents: Git-versioned Markdown knowledge plus a task queue with atomic claims, per-space ACL, audit log and human approval, so Claude, ChatGPT and other agents can hand work to each other.",
+    "name": "memokar/brainy",
+    "tags": "[![memokar/brainy MCP server](https",
+    "url": "https://github.com/memokar/brainy"
+  },
+  {
     "category": "⚖️ <a name=\"legal\"></a>Legal",
     "description": "mcp MCP server](https://glama.ai/mcp/servers/ad0750/regintel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ad0750/regintel-mcp) 🐍 ☁️ - Structured regulatory data from the RegIntel API (GDPR, MiCA, DORA, SEC, FINRA, FCA and more): search, lookup, recent updates and compliance checks.",
     "name": "ad0750/regintel-mcp",
@@ -18366,6 +18625,13 @@
     "name": "HasData/yellowpages-mcp",
     "tags": "[![HasData/yellowpages",
     "url": "https://github.com/HasData/yellowpages-mcp"
+  },
+  {
+    "category": "🗺️ <a name=\"location-services\"></a>Location Services",
+    "description": "maps-mcp MCP server](https://glama.ai/mcp/servers/HasData/google-maps-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/google-maps-mcp) 📇 ☁️ - Remote MCP server for Google Maps: place search and place details, reviews, photos, posts and contributor history, as JSON, with no Google Cloud project to set up.",
+    "name": "HasData/google-maps-mcp",
+    "tags": "[![HasData/google",
+    "url": "https://github.com/HasData/google-maps-mcp"
   },
   {
     "category": "🗺️ <a name=\"location-services\"></a>Location Services",
@@ -18744,6 +19010,13 @@
     "name": "ArtBreguez/greeks-mcp",
     "tags": "[![ArtBreguez/greeks",
     "url": "https://github.com/ArtBreguez/greeks-mcp"
+  },
+  {
+    "category": "🎯 <a name=\"marketing\"></a>Marketing",
+    "description": "x-Tech/mcp-google-tagmanager MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-tagmanager/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-tagmanager) 📇 ☁️ - Google Tag Manager: inspect containers, prepare workspace changes and publish when ready.",
+    "name": "A1-x-Tech/mcp-google-tagmanager",
+    "tags": "[![A1",
+    "url": "https://github.com/A1-x-Tech/mcp-google-tagmanager"
   },
   {
     "category": "🎯 <a name=\"marketing\"></a>Marketing",
@@ -19272,6 +19545,13 @@
   },
   {
     "category": "🎯 <a name=\"marketing\"></a>Marketing",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/qaimos/storeshots-mcp/badges/score.svg)](https://glama.ai/mcp/servers/qaimos/storeshots-mcp) 📇 ☁️ 🍎 🪟 🐧 - Turn raw app screenshots into App Store and Google Play marketing screenshots: 5 styles, iPhone/Android/iPad frames, every required store size, and PNG/ZIP download.",
+    "name": "qaimos/storeshots-mcp",
+    "tags": "[![qaimos/storeshots",
+    "url": "https://github.com/qaimos/storeshots-mcp"
+  },
+  {
+    "category": "🎯 <a name=\"marketing\"></a>Marketing",
     "description": "maker-io/mcp-server MCP server](https://glama.ai/mcp/servers/qr-maker-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/qr-maker-io/mcp-server) 📇 ☁️ - Generate styled QR codes, manage dynamic short links with click analytics, and publish micro-landing pages.",
     "name": "qr-maker-io/mcp-server",
     "tags": "[![qr",
@@ -19304,6 +19584,13 @@
     "name": "SearchAtlas",
     "tags": "[![search",
     "url": "https://github.com/Search-Atlas-Group/searchatlas-mcp-server"
+  },
+  {
+    "category": "🎯 <a name=\"marketing\"></a>Marketing",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/seocombat/clipwright-mcp/badges/score.svg)](https://glama.ai/mcp/servers/seocombat/clipwright-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Make UGC-style video ads without filming: tell your AI assistant what to say and get a vertical clip of a realistic actor saying it, ready for TikTok, Reels or Shorts. Pick or describe an actor, choose a voice from samples, and see the price before rendering. It also makes faceless videos from a script or a short brief. `npx -y @clipwright/mcp-server`",
+    "name": "seocombat/clipwright-mcp",
+    "tags": "[![seocombat/clipwright",
+    "url": "https://github.com/seocombat/clipwright-mcp"
   },
   {
     "category": "🎯 <a name=\"marketing\"></a>Marketing",
@@ -19622,6 +19909,13 @@
   },
   {
     "category": "📊 <a name=\"monitoring\"></a>Monitoring",
+    "description": "//glama.ai/mcp/servers/fclairamb/solidping/badges/score.svg)](https://glama.ai/mcp/servers/fclairamb/solidping) 🎖️ 🏎️ 🏠 ☁️ - Uptime monitoring over MCP. List and create checks, read incidents and results, manage maintenance windows and status pages. Self-hosted single Go binary, 40 check types, probes in several regions.",
+    "name": "fclairamb/solidping",
+    "tags": "[![fclairamb/solidping MCP server](https",
+    "url": "https://github.com/fclairamb/solidping"
+  },
+  {
+    "category": "📊 <a name=\"monitoring\"></a>Monitoring",
     "description": "Sentry integration for error tracking and performance monitoring.",
     "name": "getsentry/sentry-mcp",
     "tags": "🐍 ☁️",
@@ -19804,6 +20098,13 @@
   },
   {
     "category": "📊 <a name=\"monitoring\"></a>Monitoring",
+    "description": "log MCP server](https://glama.ai/mcp/servers/saxonnicholls/super-log/badges/score.svg)](https://glama.ai/mcp/servers/saxonnicholls/super-log) 📇 🏠 🍎 🪟 🐧 - Read-only access to a local dev bench that interleaves every log stream on one timeline: tail and search live streams, search the on-disk journal, wait for an event, and read per-topic guides for unfamiliar topics. No API key, no daemon of its own, `npx -y @super-log/mcp`.",
+    "name": "saxonnicholls/super-log",
+    "tags": "[![saxonnicholls/super",
+    "url": "https://github.com/saxonnicholls/super-log"
+  },
+  {
+    "category": "📊 <a name=\"monitoring\"></a>Monitoring",
     "description": "general-store-repo MCP server](https://glama.ai/mcp/servers/seancrecord/scvd-general-store-repo/badges/score.svg)](https://glama.ai/mcp/servers/seancrecord/scvd-general-store-repo) 📇 🏠 🍎 🪟 🐧 - Track agent tool spending with local, consent-gated JSONL storage.",
     "name": "seancrecord/scvd-general-store-repo (scvd-tab)",
     "tags": "[![seancrecord/scvd",
@@ -19906,6 +20207,13 @@
     "name": "incu6us/loki-mcp-server",
     "tags": "[![incu6us/loki",
     "url": "https://github.com/incu6us/loki-mcp-server"
+  },
+  {
+    "category": "📊 <a name=\"monitoring\"></a>Monitoring",
+    "description": "mcp-server MCP server](https://glama.ai/mcp/servers/igorolv/loki-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/igorolv/loki-mcp-server) ☕ 🏠 🍎 🪟 🐧 - Read-only Grafana Loki (2.6.1 and 3.x) for agents: label and stream discovery, bounded LogQL pages, counts by label or time bucket, and log export; several stands per server.",
+    "name": "igorolv/loki-mcp-server",
+    "tags": "[![igorolv/loki",
+    "url": "https://github.com/igorolv/loki-mcp-server"
   },
   {
     "category": "📊 <a name=\"monitoring\"></a>Monitoring",
@@ -20994,6 +21302,13 @@
   },
   {
     "category": "🔬 <a name=\"research\"></a>Research",
+    "description": "server MCP server](https://glama.ai/mcp/servers/cluefinch/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/cluefinch/mcp-server) 🐍 🏠 🍎 🪟 🐧 - Cluefinch MCP provides Deep Research infrastructure for AI agents: web search, incremental page reading, source-link navigation, and multi-source evidence collection while the agent remains in control of planning and reasoning.",
+    "name": "cluefinch/mcp-server",
+    "tags": "[![cluefinch/mcp",
+    "url": "https://github.com/cluefinch/mcp-server"
+  },
+  {
+    "category": "🔬 <a name=\"research\"></a>Research",
     "description": "//glama.ai/mcp/servers/davidmosiah/uap-pulse/badges/score.svg)](https://glama.ai/mcp/servers/davidmosiah/uap-pulse) 📇 🏠 🍎 🪟 🐧 - Read-only search of declassified U.S. federal UAP/UFO records, with hotspots, timelines, a live map dataset and direct source links.",
     "name": "davidmosiah/uap-pulse",
     "tags": "[![UAP Pulse MCP server](https",
@@ -21190,6 +21505,13 @@
   },
   {
     "category": "🔬 <a name=\"research\"></a>Research",
+    "description": "web-mcp MCP server](https://glama.ai/mcp/servers/Scormave/gramps-web-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Scormave/gramps-web-mcp) #️⃣ 🏠 🍎 🪟 🐧 - Gramps Web genealogy: search and edit family tree records, explore ancestors, descendants, relationships and timelines, and read media with privacy-aware previews. Includes a read-only mode and Claude Desktop bundles.",
+    "name": "Scormave/gramps-web-mcp",
+    "tags": "[![Scormave/gramps",
+    "url": "https://github.com/Scormave/gramps-web-mcp"
+  },
+  {
+    "category": "🔬 <a name=\"research\"></a>Research",
     "description": "//glama.ai/mcp/servers/ggstefivzf/badges/score.svg)](https://glama.ai/mcp/servers/ggstefivzf) 📇 ☁️ - Legislative data from all 50 US states and Congress via the LegiScan API: search bills, get full text, track votes and look up legislators.",
     "name": "sh-patterson/legiscan-mcp",
     "tags": "[![ggstefivzf MCP server](https",
@@ -21383,6 +21705,13 @@
     "name": "HasData/web-scraping-mcp",
     "tags": "[![HasData/web",
     "url": "https://github.com/HasData/web-scraping-mcp"
+  },
+  {
+    "category": "🔎 <a name=\"search\"></a>Search & Data Extraction",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/AgentiLoop/pagewire-mcp/badges/score.svg)](https://glama.ai/mcp/servers/AgentiLoop/pagewire-mcp) 📇 ☁️ 🍎 🪟 🐧 - Read any public web page as clean Markdown, page metadata, or a page plus 4 same-site pages; pay per call in USDC via x402, no API key.",
+    "name": "AgentiLoop/pagewire-mcp",
+    "tags": "[![AgentiLoop/pagewire",
+    "url": "https://github.com/AgentiLoop/pagewire-mcp"
   },
   {
     "category": "🔎 <a name=\"search\"></a>Search & Data Extraction",
@@ -22961,6 +23290,13 @@
   },
   {
     "category": "🔎 <a name=\"search\"></a>Search & Data Extraction",
+    "description": "Ai/bilibili-mcp MCP server](https://glama.ai/mcp/servers/XZXZZX-Ai/bilibili-mcp/badges/score.svg)](https://glama.ai/mcp/servers/XZXZZX-Ai/bilibili-mcp) 📇 🏠 🍎 🪟 🐧 - Local-first Bilibili MCP server for video metadata, subtitles and structured transcripts, chapters, popular comments, and optional local ASR fallback. Published on npm as `@xzxzzx/bilibili-mcp` with bilingual documentation.",
+    "name": "XZXZZX-Ai/bilibili-mcp",
+    "tags": "[![XZXZZX",
+    "url": "https://github.com/XZXZZX-Ai/bilibili-mcp"
+  },
+  {
+    "category": "🔎 <a name=\"search\"></a>Search & Data Extraction",
     "description": "Search Baseline status using the Web Platform API.",
     "name": "yamanoku/baseline-mcp-server",
     "tags": "📇 🏠",
@@ -23049,6 +23385,13 @@
     "name": "AG-Bureau/mcp-search",
     "tags": "[![AG",
     "url": "https://github.com/AG-Bureau/mcp-search"
+  },
+  {
+    "category": "🔒 <a name=\"security\"></a>Security",
+    "description": "//glama.ai/mcp/servers/tunahanaliozturk/derbent/badges/score.svg)](https://glama.ai/mcp/servers/tunahanaliozturk/derbent) 🏎️ 🏠 🍎 🪟 🐧 - One local gate for Claude Code, Codex, Copilot CLI and Antigravity: allow, deny and ask rules over MCP and built-in tool calls, approvals from a terminal UI, and hash-chained receipts.",
+    "name": "tunahanaliozturk/derbent",
+    "tags": "[![tunahanaliozturk/derbent MCP server](https",
+    "url": "https://github.com/tunahanaliozturk/derbent"
   },
   {
     "category": "🔒 <a name=\"security\"></a>Security",
@@ -23689,6 +24032,13 @@
   },
   {
     "category": "🔒 <a name=\"security\"></a>Security",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/echelongraph/echelongraph-mcp/badges/score.svg)](https://glama.ai/mcp/servers/echelongraph/echelongraph-mcp) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - Keyless, read-only CVE and internet-exposure intelligence: CVE lookup and search, CISA KEV, EPSS history, CWE, vendor advisories (MSRC, Red Hat, Cisco, GHSA and more), SBOM and manifest checks, and aggregate exposure radars. Use the hosted endpoint (mcp.echelongraph.io) with no install, or run locally with npx.",
+    "name": "echelongraph/echelongraph-mcp",
+    "tags": "[![echelongraph/echelongraph",
+    "url": "https://github.com/echelongraph/echelongraph-mcp"
+  },
+  {
+    "category": "🔒 <a name=\"security\"></a>Security",
     "description": "//glama.ai/mcp/servers/elberacasa/umbra/badges/score.svg)](https://glama.ai/mcp/servers/elberacasa/umbra) 📇 🏠 🍎 🪟 🐧 - Trust scores and guardrails for AI-generated code: static security rules, Docker-verified build/boot checks and receipts that catch agents lying about tests.",
     "name": "elberacasa/umbra",
     "tags": "[![elberacasa/umbra MCP server](https",
@@ -23962,6 +24312,13 @@
   },
   {
     "category": "🔒 <a name=\"security\"></a>Security",
+    "description": "//glama.ai/mcp/servers/mandarelabs/mandare/badges/score.svg)](https://glama.ai/mcp/servers/mandarelabs/mandare) 🎖️ 📇 🏠 🍎 🐧 - Accountability for AI agent fleets: verify a signed, hash-chained ledger, check budgets, kill an agent, and issue passports and mandates, all through the local CLI.",
+    "name": "mandarelabs/mandare",
+    "tags": "[![mandarelabs/mandare MCP server](https",
+    "url": "https://github.com/mandarelabs/mandare"
+  },
+  {
+    "category": "🔒 <a name=\"security\"></a>Security",
     "description": "Honeypot framework for building decoy MCP tools that an agent would never use in normal work, to detect prompt injection and malicious agent behavior.",
     "name": "mariocandela/beelzebub",
     "tags": "☁️",
@@ -24092,6 +24449,13 @@
     "name": "ppcvote/misp-mcp-server",
     "tags": "[![ppcvote/misp",
     "url": "https://github.com/ppcvote/misp-mcp-server"
+  },
+  {
+    "category": "🔒 <a name=\"security\"></a>Security",
+    "description": "//glama.ai/mcp/servers/privacyfence/privacyfence/badges/score.svg)](https://glama.ai/mcp/servers/privacyfence/privacyfence) 🐍 🏠 🍎 🪟 🐧 - Privacy and approval gateway between AI assistants and Gmail, Drive, Slack, Salesforce, Jira and more: human approval for sensitive reads and writes, local PII detection and an audit log.",
+    "name": "privacyfence/privacyfence",
+    "tags": "[![privacyfence/privacyfence MCP server](https",
+    "url": "https://github.com/privacyfence/privacyfence"
   },
   {
     "category": "🔒 <a name=\"security\"></a>Security",
@@ -24703,6 +25067,13 @@
     "url": "https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker"
   },
   {
+    "category": "🔒 <a name=\"security\"></a>Security",
+    "description": "Joshi/blastradius-mcp MCP server](https://glama.ai/mcp/servers/Jimil-Joshi/blastradius-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Jimil-Joshi/blastradius-mcp) 📇 🏠 🍎 🪟 🐧 - Zero-trust security proxy, pre-execution blast radius simulation, DLP secret redaction, and cryptographic audit logging for MCP.",
+    "name": "Jimil-Joshi/blastradius-mcp",
+    "tags": "[![Jimil",
+    "url": "https://github.com/Jimil-Joshi/blastradius-mcp"
+  },
+  {
     "category": "🌐 <a name=\"social-media\"></a>Social Media",
     "description": "mcp MCP server](https://glama.ai/mcp/servers/HasData/instagram-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/instagram-mcp) 📇 ☁️ - Public Instagram data: profiles and post feeds by handle, with follower counts, captions, hashtags and mentions parsed as JSON.",
     "name": "HasData/instagram-mcp",
@@ -24953,6 +25324,13 @@
     "name": "MarceauSolutions/fitness-influencer-mcp",
     "tags": "🐍 🏠 ☁️",
     "url": "https://github.com/MarceauSolutions/fitness-influencer-mcp"
+  },
+  {
+    "category": "🌐 <a name=\"social-media\"></a>Social Media",
+    "description": "agents MCP server](https://glama.ai/mcp/servers/markaestro/markaestro-agents/badges/score.svg)](https://glama.ai/mcp/servers/markaestro/markaestro-agents) 🎖️ 📇 ☁️ - Schedule, publish and measure posts on Facebook, Instagram, TikTok, LinkedIn, Threads, Pinterest and X for one brand or many, with analytics and Evergreen queues. Hosted server with OAuth sign-in, or the `@markaestro/mcp` npm package.",
+    "name": "markaestro/markaestro-agents",
+    "tags": "[![markaestro/markaestro",
+    "url": "https://github.com/markaestro/markaestro-agents"
   },
   {
     "category": "🌐 <a name=\"social-media\"></a>Social Media",
@@ -25208,6 +25586,13 @@
   },
   {
     "category": "🔮 <a name=\"spirituality-and-esoterica\"></a>Spirituality & Esoterica",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/PattrickChenforclaudeuse/mythsensus-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PattrickChenforclaudeuse/mythsensus-mcp) 📇 🏠 🍎 🪟 🐧 - Synthesizes 26 ancient divination systems (BaZi, Vedic Jyotish, Western, Nine Star Ki, Thai Seven Number, Mayan, Norse Runes, Human Design and 18 more) into a single consensus Cosmic Score showing where the traditions agree vs contradict. Deterministic (no LLM in the math), fully local — no birth data leaves the process. Official MCP for mythsensus.com. Install: `npx -y mythsensus-mcp`.",
+    "name": "PattrickChenforclaudeuse/mythsensus-mcp",
+    "tags": "[![PattrickChenforclaudeuse/mythsensus",
+    "url": "https://github.com/PattrickChenforclaudeuse/mythsensus-mcp"
+  },
+  {
+    "category": "🔮 <a name=\"spirituality-and-esoterica\"></a>Spirituality & Esoterica",
     "description": "calendar-utilities MCP server](https://glama.ai/mcp/servers/socraticsurge/telugu-calendar-utilities/badges/score.svg)](https://glama.ai/mcp/servers/socraticsurge/telugu-calendar-utilities) 🐍 🏠 - Telugu Panchangam (Hindu almanac): tithi, nakshatra, muhurta windows, festivals, good-day finder, gochara transits and daily rasi phalalu.",
     "name": "socraticsurge/telugu-calendar-utilities",
     "tags": "[![socraticsurge/telugu",
@@ -25415,6 +25800,13 @@
     "name": "partymola/withings-mcp",
     "tags": "[![partymola/withings",
     "url": "https://github.com/partymola/withings-mcp"
+  },
+  {
+    "category": "🏃 <a name=\"sports\"></a>Sports",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/Propertyscout001/puntersedge-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Propertyscout001/puntersedge-mcp) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - Live Australian racing and sports odds from 14 AU bookmakers for AI assistants: next races with every bookmaker's price per runner, best price, settled results and market movers, each price stamped with its age.",
+    "name": "Propertyscout001/puntersedge-mcp",
+    "tags": "[![Propertyscout001/puntersedge",
+    "url": "https://github.com/Propertyscout001/puntersedge-mcp"
   },
   {
     "category": "🏃 <a name=\"sports\"></a>Sports",
@@ -26237,6 +26629,13 @@
   },
   {
     "category": "🔄 <a name=\"version-control\"></a>Version Control",
+    "description": "app MCP server](https://glama.ai/mcp/servers/klarluft/gitwarren-app/badges/score.svg)](https://glama.ai/mcp/servers/klarluft/gitwarren-app) 🎖️ 📇 🏠 🍎 🪟 🐧 - Local code review for you and your coding agent: the agent opens a review of its changes, you comment on lines, it replies and resolves. Reads the git worktree directly, uncommitted work included; nothing leaves your machine.",
+    "name": "klarluft/gitwarren-app",
+    "tags": "[![klarluft/gitwarren",
+    "url": "https://github.com/klarluft/gitwarren-app"
+  },
+  {
+    "category": "🔄 <a name=\"version-control\"></a>Version Control",
     "description": "Interact with issues and merge requests in your GitLab projects.",
     "name": "kopfrechner/gitlab-mr-mcp",
     "tags": "📇 ☁️",
@@ -26356,6 +26755,13 @@
   },
   {
     "category": "🏢 <a name=\"workplace-and-productivity\"></a>Workplace & Productivity",
+    "description": "x-Tech/mcp-google-forms MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-forms/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-forms) 📇 ☁️ - Google Forms: create and publish forms, manage questions and read responses.",
+    "name": "A1-x-Tech/mcp-google-forms",
+    "tags": "[![A1",
+    "url": "https://github.com/A1-x-Tech/mcp-google-forms"
+  },
+  {
+    "category": "🏢 <a name=\"workplace-and-productivity\"></a>Workplace & Productivity",
     "description": "turbo-ai-mcp MCP server](https://glama.ai/mcp/servers/adacreativeco/ada-turbo-ai-mcp/badges/score.svg)](https://glama.ai/mcp/servers/adacreativeco/ada-turbo-ai-mcp) 🐍 🏠 🪟 🍎 🐧 - Agency OS: specialized AI roles with a real-time retro Pixel Office visualizer and a multi-provider LLM engine.",
     "name": "adacreativeco/ada-turbo-ai-mcp",
     "tags": "[![adacreativeco/ada",
@@ -26374,6 +26780,13 @@
     "name": "CrossPaste/crosspaste-desktop",
     "tags": "[![CrossPaste/crosspaste",
     "url": "https://github.com/CrossPaste/crosspaste-desktop"
+  },
+  {
+    "category": "🏢 <a name=\"workplace-and-productivity\"></a>Workplace & Productivity",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/layergen/eodly-mcp/badges/score.svg)](https://glama.ai/mcp/servers/layergen/eodly-mcp) 📇 ☁️ - Read your team's end-of-day reports in Eodly: who shipped with GitHub and Linear proof, who is silent, who is slipping, plus the team roster.",
+    "name": "layergen/eodly-mcp",
+    "tags": "[![layergen/eodly",
+    "url": "https://github.com/layergen/eodly-mcp"
   },
   {
     "category": "🏢 <a name=\"workplace-and-productivity\"></a>Workplace & Productivity",
@@ -26423,6 +26836,13 @@
     "name": "arifur9993/attendance-engine-mcp",
     "tags": "[![arifur9993/attendance",
     "url": "https://github.com/arifur9993/attendance-engine-mcp"
+  },
+  {
+    "category": "🏢 <a name=\"workplace-and-productivity\"></a>Workplace & Productivity",
+    "description": "studio MCP server](https://glama.ai/mcp/servers/Arkanji/iwork-studio/badges/score.svg)](https://glama.ai/mcp/servers/Arkanji/iwork-studio) 🐍 🏠 🍎 - Create, edit, design and export Apple Numbers, Keynote and Pages files: designed decks with chart and table slides, brand kits and a design review. Every write is verified and undoable; Arabic/RTL-safe.",
+    "name": "Arkanji/iwork-studio",
+    "tags": "[![Arkanji/iwork",
+    "url": "https://github.com/Arkanji/iwork-studio"
   },
   {
     "category": "🏢 <a name=\"workplace-and-productivity\"></a>Workplace & Productivity",
@@ -26724,6 +27144,13 @@
     "name": "khaoss85/mcp-orchestro",
     "tags": "📇 ☁️ 🍎 🪟 🐧",
     "url": "https://github.com/khaoss85/mcp-orchestro"
+  },
+  {
+    "category": "🏢 <a name=\"workplace-and-productivity\"></a>Workplace & Productivity",
+    "description": "site MCP server](https://glama.ai/mcp/servers/lexmount/artifact-site/badges/score.svg)](https://glama.ai/mcp/servers/lexmount/artifact-site) 📇 ☁️ 🏠 🍎 🪟 🐧 - One place for every AI agent's pages and docs: publish HTML, build folders, ZIPs and PDFs as sandboxed, versioned share links, then search, read and update them. Hosted or self-hosted; remote MCP with OAuth, or local via `npx @artifact-site/cli mcp`.",
+    "name": "lexmount/artifact-site",
+    "tags": "[![lexmount/artifact",
+    "url": "https://github.com/lexmount/artifact-site"
   },
   {
     "category": "🏢 <a name=\"workplace-and-productivity\"></a>Workplace & Productivity",
@@ -27144,6 +27571,13 @@
     "name": "ilyautov/hh-mcp-ru",
     "tags": "[![ilyautov/hh",
     "url": "https://github.com/ilyautov/hh-mcp-ru"
+  },
+  {
+    "category": "🏢 <a name=\"workplace-and-productivity\"></a>Workplace & Productivity",
+    "description": "//glama.ai/mcp/servers/adityatiwari101104/contribos/badges/score.svg)](https://glama.ai/mcp/servers/adityatiwari101104/contribos) 🐍 🏠 🍎 🪟 🐧 - Zero-dependency open-source contribution companion: repo rules and AI policy radar, evidence-backed issue briefs, pre-submit checks, and review coaching.",
+    "name": "adityatiwari101104/contribos",
+    "tags": "[![adityatiwari101104/contribos MCP server](https",
+    "url": "https://github.com/adityatiwari101104/contribos"
   },
   {
     "category": "🛠️ <a name=\"other-tools-and-integrations\"></a>Other Tools and Integrations",
