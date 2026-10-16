@@ -1856,6 +1856,13 @@
   },
   {
     "category": "📐 <a name=\"architecture-and-design\"></a>Architecture & Design",
+    "description": "//glama.ai/mcp/servers/swebsy/MCP/badges/score.svg)](https://glama.ai/mcp/servers/swebsy/MCP) 🎖️ 📇 🏠 🍎 🪟 🐧 - Build and edit real websites from the coding agent you already pay for — no per-token AI fees. Browse the template catalogue, create and open a site, rewrite sections, add and link pages, insert blocks, keep reusable symbols in sync, screenshot any viewport, and export static HTML/CSS/JS. Drives an open Swebsy Studio tab over a local `127.0.0.1` WebSocket relay; nothing is proxied through our servers and Studio redacts secrets before anything crosses the bridge. Install via NPM: `npx -y @swebsy/mcp setup`",
+    "name": "swebsy/MCP",
+    "tags": "[![swebsy/MCP MCP server](https",
+    "url": "https://github.com/swebsy/MCP"
+  },
+  {
+    "category": "📐 <a name=\"architecture-and-design\"></a>Architecture & Design",
     "description": "//glama.ai/mcp/servers/Tommkruix/archprint/badges/score.svg)](https://glama.ai/mcp/servers/Tommkruix/archprint) 📇 🏠 🍎 🐧 - Report the architecture rules a TypeScript repo already follows, inferred from its import graph, with the evidence for each, and check whether a change breaks them.",
     "name": "Tommkruix/archprint",
     "tags": "[![Tommkruix/archprint MCP server](https",
@@ -2689,6 +2696,13 @@
   },
   {
     "category": "📂 <a name=\"browser-automation\"></a>Browser Automation",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/Miladmet/quickcast-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Miladmet/quickcast-mcp) 📇 🏠 🍎 🪟 🐧 - Screen-to-Action Protocol: Turn screen recordings directly into automated Playwright E2E reproduction tests, structured GitHub bug reports with video timestamps, and SOP walkthroughs.",
+    "name": "Miladmet/quickcast-mcp",
+    "tags": "[![quickcast",
+    "url": "https://github.com/Miladmet/quickcast-mcp"
+  },
+  {
+    "category": "📂 <a name=\"browser-automation\"></a>Browser Automation",
     "description": "Lu/AgenticCrawler MCP server](https://glama.ai/mcp/servers/Mingye-Lu/AgenticCrawler/badges/score.svg)](https://glama.ai/mcp/servers/Mingye-Lu/AgenticCrawler) 🦀 🏠 🍎 🪟 🐧 - Autonomous, goal-driven LLM web crawler with stealth browsing, distributed as a single binary.",
     "name": "Mingye-Lu/AgenticCrawler",
     "tags": "[![Mingye",
@@ -3060,6 +3074,13 @@
   },
   {
     "category": "☁️ <a name=\"cloud-platforms\"></a>Cloud Platforms",
+    "description": "tools/Proxmox-AIops MCP server](https://glama.ai/mcp/servers/AIops-tools/Proxmox-AIops/badges/score.svg)](https://glama.ai/mcp/servers/AIops-tools/Proxmox-AIops) 🐍 🏠 - Governed Proxmox VE operations — VM/LXC lifecycle, snapshots, cluster, storage, backup, and HA (43 tools) with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.",
+    "name": "AIops-tools/Proxmox-AIops",
+    "tags": "[![AIops",
+    "url": "https://github.com/AIops-tools/Proxmox-AIops"
+  },
+  {
+    "category": "☁️ <a name=\"cloud-platforms\"></a>Cloud Platforms",
     "description": "//glama.ai/mcp/servers/agentmetal/mcp/badges/score.svg)](https://glama.ai/mcp/servers/agentmetal/mcp) 🎖️ 📇 ☁️ - Provision, SSH into, run commands on and manage Linux VPSes, paying with USDC over x402 or by card.",
     "name": "agentmetal/mcp",
     "tags": "[![agentmetal/mcp MCP server](https",
@@ -3260,6 +3281,13 @@
     "name": "GeiserX/spinnaker-mcp",
     "tags": "[![GeiserX/spinnaker",
     "url": "https://github.com/GeiserX/spinnaker-mcp"
+  },
+  {
+    "category": "☁️ <a name=\"cloud-platforms\"></a>Cloud Platforms",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/gitayg/appcrane-mcp/badges/score.svg)](https://glama.ai/mcp/servers/gitayg/appcrane-mcp) 🎖️ 📇 🏠 🐧 - Self-hosted, MCP-native deployment platform (AppCrane): AI agents deploy apps, manage secrets, read logs, and roll back on your own server. Enterprise SSO (SAML/OIDC/SCIM) and per-user audit.",
+    "name": "gitayg/appcrane-mcp",
+    "tags": "[![gitayg/appcrane",
+    "url": "https://github.com/gitayg/appcrane-mcp"
   },
   {
     "category": "☁️ <a name=\"cloud-platforms\"></a>Cloud Platforms",
@@ -4236,6 +4264,13 @@
   },
   {
     "category": "🤖 <a name=\"coding-agents\"></a>Coding Agents",
+    "description": "bridge MCP server](https://glama.ai/mcp/servers/EngMarchG/agent-bridge/badges/score.svg)](https://glama.ai/mcp/servers/EngMarchG/agent-bridge) 🐍 🏠 🪟 - Lets Claude Code and Codex steer each other's live desktop chats through Windows UI Automation: list and read chats, send messages or mid-turn steers, and pause, resume or edit Codex goals.",
+    "name": "EngMarchG/agent-bridge",
+    "tags": "[![EngMarchG/agent",
+    "url": "https://github.com/EngMarchG/agent-bridge"
+  },
+  {
+    "category": "🤖 <a name=\"coding-agents\"></a>Coding Agents",
     "description": "Coding agent with basic read, write and command line tools.",
     "name": "ezyang/codemcp",
     "tags": "🐍 🏠",
@@ -4873,6 +4908,13 @@
   },
   {
     "category": "💬 <a name=\"communication\"></a>Communication",
+    "description": "x-Tech/mcp-google-chat MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-chat/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-chat) 📇 ☁️ - Google Chat API: list and search spaces, read and send messages, and work with threads and reactions.",
+    "name": "A1-x-Tech/mcp-google-chat",
+    "tags": "[![A1",
+    "url": "https://github.com/A1-x-Tech/mcp-google-chat"
+  },
+  {
+    "category": "💬 <a name=\"communication\"></a>Communication",
     "description": "x-Tech/mcp-google-gmail MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-gmail/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-gmail) 📇 ☁️ - Gmail API: search, read and send email, and manage drafts, labels and the trash.",
     "name": "A1-x-Tech/mcp-google-gmail",
     "tags": "[![A1",
@@ -5332,6 +5374,13 @@
     "name": "markmnl/fmsg-mcp",
     "tags": "[![markmnl/fmsg",
     "url": "https://github.com/markmnl/fmsg-mcp"
+  },
+  {
+    "category": "💬 <a name=\"communication\"></a>Communication",
+    "description": "//glama.ai/mcp/servers/phuryn/askone/badges/score.svg)](https://glama.ai/mcp/servers/phuryn/askone) 📇 ☁️ 🍎 🪟 🐧 - Run live audience Q&A and polls with AskOne, with free AI moderation: start rooms, launch polls, moderate and answer questions, and draft a FAQ from the Q&A. Also hosted at `https://askone.org/api/mcp`.",
+    "name": "phuryn/askone",
+    "tags": "[![phuryn/askone MCP server](https",
+    "url": "https://github.com/phuryn/askone"
   },
   {
     "category": "💬 <a name=\"communication\"></a>Communication",
@@ -5937,6 +5986,13 @@
   },
   {
     "category": "💬 <a name=\"communication\"></a>Communication",
+    "description": "chat/wsapi-mcp MCP server](https://glama.ai/mcp/servers/wsapi-chat/wsapi-mcp/badges/score.svg)](https://glama.ai/mcp/servers/wsapi-chat/wsapi-mcp) 📇 ☁️ - WhatsApp through the WSAPI REST API: send messages and media, and manage chats, groups, communities and contacts on a connected number. Open source, self-hosted or managed.",
+    "name": "wsapi-chat/wsapi-mcp",
+    "tags": "[![wsapi",
+    "url": "https://github.com/wsapi-chat/wsapi-mcp"
+  },
+  {
+    "category": "💬 <a name=\"communication\"></a>Communication",
     "description": "Read iMessage data on macOS.",
     "name": "wyattjoh/imessage-mcp",
     "tags": "📇 🏠 🍎",
@@ -6067,6 +6123,13 @@
     "name": "guillaumehussong/standard-vocal-mcp",
     "tags": "[![guillaumehussong/standard",
     "url": "https://github.com/guillaumehussong/standard-vocal-mcp"
+  },
+  {
+    "category": "🗣️ <a name=\"conversational-ai\"></a>Conversational AI",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/zihin-ai/zihin-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zihin-ai/zihin-mcp) 🎖️ 📇 ☁️ - Build and operate AI agents on the Zihin.ai platform: manage agents, schemas, triggers, budgets and approvals, run diagnostics and chat with your agents.",
+    "name": "zihin-ai/zihin-mcp",
+    "tags": "[![zihin",
+    "url": "https://github.com/zihin-ai/zihin-mcp"
   },
   {
     "category": "🔑 <a name=\"cryptography\"></a>Cryptography",
@@ -6263,6 +6326,13 @@
     "name": "dockndevai/mcp-clickhouse",
     "tags": "[![dockndevai/mcp",
     "url": "https://github.com/dockndevai/mcp-clickhouse"
+  },
+  {
+    "category": "🗄️ <a name=\"databases\"></a>Databases",
+    "description": "tools/Queue-AIops MCP server](https://glama.ai/mcp/servers/AIops-tools/Queue-AIops/badges/score.svg)](https://glama.ai/mcp/servers/AIops-tools/Queue-AIops) 🐍 🏠 - Governed Redis + RabbitMQ operations — memory-pressure, latency, backlog, and churn RCA, plus guardrailed queue and key operations (28 tools) with unbypassable audit logging (MCP + CLI), budget/runaway guards, and undo/rollback.",
+    "name": "AIops-tools/Queue-AIops",
+    "tags": "[![AIops",
+    "url": "https://github.com/AIops-tools/Queue-AIops"
   },
   {
     "category": "🗄️ <a name=\"databases\"></a>Databases",
@@ -6494,6 +6564,13 @@
     "name": "edwinbernadus/nocodb-mcp-server",
     "tags": "📇 ☁️",
     "url": "https://github.com/edwinbernadus/nocodb-mcp-server"
+  },
+  {
+    "category": "🗄️ <a name=\"databases\"></a>Databases",
+    "description": "com-br/elekto-mcp-sql MCP server](https://glama.ai/mcp/servers/elekto-com-br/elekto-mcp-sql/badges/score.svg)](https://glama.ai/mcp/servers/elekto-com-br/elekto-mcp-sql) #️⃣ 🏠 🍎 🪟 🐧 - Read-only SQL Server introspection for .NET projects: schema, DDL, dependency graphs, index health and data profiling, reading connection strings from appsettings.json or web.config, and reporting which GRANTs the login lacks.",
+    "name": "elekto-com-br/elekto-mcp-sql",
+    "tags": "[![elekto",
+    "url": "https://github.com/elekto-com-br/elekto-mcp-sql"
   },
   {
     "category": "🗄️ <a name=\"databases\"></a>Databases",
@@ -7558,6 +7635,13 @@
     "name": "inth3shadows/runecho",
     "tags": "[![inth3shadows/runecho MCP server](https",
     "url": "https://github.com/inth3shadows/runecho"
+  },
+  {
+    "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
+    "description": "//glama.ai/mcp/servers/huanglizhuo/OctoCounts/badges/score.svg)](https://glama.ai/mcp/servers/huanglizhuo/OctoCounts) 📇 🏠 🍎 🪟 🐧 - SLOC counts for any public GitHub repository from any MCP client: files, code, comment and blank lines per language, plus side-by-side repo comparisons.",
+    "name": "huanglizhuo/OctoCounts",
+    "tags": "[![huanglizhuo/OctoCounts MCP server](https",
+    "url": "https://github.com/huanglizhuo/OctoCounts"
   },
   {
     "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
@@ -8923,6 +9007,13 @@
     "name": "fantasieleven-code/callout",
     "tags": "[![callout",
     "url": "https://github.com/fantasieleven-code/callout"
+  },
+  {
+    "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
+    "description": "//glama.ai/mcp/servers/FidelisMM/shipstores/badges/score.svg)](https://glama.ai/mcp/servers/FidelisMM/shipstores) 🐍 🏠 🍎 - Ship iOS and Android apps end to end: App Store Connect, Google Play Console and Expo EAS builds, listings, screenshots, privacy labels, review submission and App Review replies.",
+    "name": "FidelisMM/shipstores",
+    "tags": "[![FidelisMM/shipstores MCP server](https",
+    "url": "https://github.com/FidelisMM/shipstores"
   },
   {
     "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
@@ -10508,6 +10599,13 @@
   },
   {
     "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
+    "description": "//glama.ai/mcp/servers/toprakahmetaydogmus/TZeroAlgorithm/badges/score.svg)](https://glama.ai/mcp/servers/toprakahmetaydogmus/TZeroAlgorithm) 🐍 🏠 🍎 🪟 🐧 - Hierarchical context tree and 13-tool MCP server for AI code context management.",
+    "name": "toprakahmetaydogmus/TZeroAlgorithm",
+    "tags": "[![toprakahmetaydogmus/TZeroAlgorithm MCP server](https",
+    "url": "https://github.com/toprakahmetaydogmus/TZeroAlgorithm"
+  },
+  {
+    "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
     "description": "Architectural analysis for software projects: technology stack detection, ADR management, security checks, TDD workflow and deployment readiness validation.",
     "name": "tosin2013/mcp-adr-analysis-server",
     "tags": "📇 ☁️ 🏠",
@@ -11901,6 +11999,13 @@
   },
   {
     "category": "🎓 <a name=\"education\"></a>Education",
+    "description": "//glama.ai/mcp/servers/TantiE100/pktctl/badges/score.svg)](https://glama.ai/mcp/servers/TantiE100/pktctl) 🦀 🏠 🍎 🪟 🐧 - Drive Cisco Packet Tracer for CCNA labs: build and cable topologies, configure IOS, test with ping and simulation mode, and reach its whole IPC API over native PTMP.",
+    "name": "TantiE100/pktctl",
+    "tags": "[![TantiE100/pktctl MCP server](https",
+    "url": "https://github.com/TantiE100/pktctl"
+  },
+  {
+    "category": "🎓 <a name=\"education\"></a>Education",
     "description": "//glama.ai/mcp/servers/peopleworks/SignsofAI/badges/score.svg)](https://glama.ai/mcp/servers/peopleworks/SignsofAI) #️⃣ 🏠 🍎 🪟 🐧 - Explainable AI-writing detection and originality checking in English and Spanish, plus citation checks and hidden-character detection.",
     "name": "peopleworks/SignsofAI",
     "tags": "[![peopleworks/SignsofAI MCP server](https",
@@ -12682,6 +12787,13 @@
     "name": "celineycn/quantdata-plugin",
     "tags": "[![celineycn/quantdata",
     "url": "https://github.com/celineycn/quantdata-plugin"
+  },
+  {
+    "category": "💰 <a name=\"finance--fintech\"></a>Finance & Fintech",
+    "description": "kuc/honest-vies-mcp MCP server](https://glama.ai/mcp/servers/bartosz-kuc/honest-vies-mcp/badges/score.svg)](https://glama.ai/mcp/servers/bartosz-kuc/honest-vies-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Validates EU VAT numbers against the European Commission's VIES API, locally with no API key or third-party middleman. `check_vat` returns validity, name and address where available, and a consultation number as audit proof when you pass your own VAT; `list_supported_countries` lists the 27 EU states plus XI (Northern Ireland).",
+    "name": "bartosz-kuc/honest-vies-mcp",
+    "tags": "[![bartosz",
+    "url": "https://github.com/bartosz-kuc/honest-vies-mcp"
   },
   {
     "category": "💰 <a name=\"finance--fintech\"></a>Finance & Fintech",
@@ -15687,6 +15799,13 @@
     "url": "https://github.com/airblock2026/bit-monk-signal-mcp"
   },
   {
+    "category": "💰 <a name=\"finance--fintech\"></a>Finance & Fintech",
+    "description": "Asce/pandastocksdk MCP server](https://glama.ai/mcp/servers/D-Asce/pandastocksdk/badges/score.svg)](https://glama.ai/mcp/servers/D-Asce/pandastocksdk) 🐍 🏠 - A-share realtime market data via MCP: NATS-pushed quotes, Level2, DDX, capital flow, news. 22 tools, free public test account. Install: `pip install pandastock-mcp`",
+    "name": "D-Asce/pandastocksdk",
+    "tags": "[![D",
+    "url": "https://github.com/D-Asce/pandastocksdk"
+  },
+  {
     "category": "🎮 <a name=\"gaming\"></a>Gaming",
     "description": "ai/gamenumerics MCP server](https://glama.ai/mcp/servers/26048608982lp-ai/gamenumerics/badges/score.svg)](https://glama.ai/mcp/servers/26048608982lp-ai/gamenumerics) 📇 🏠 🍎 🪟 🐧 - Game balance design and auditing: import xlsx config tables, audit growth curves, simulate battle and gacha systems, and reverse-engineer spreadsheet formulas.",
     "name": "26048608982lp-ai/gamenumerics",
@@ -16091,6 +16210,13 @@
     "name": "rishijatia/fantasy-pl-mcp",
     "tags": "🐍 ☁️",
     "url": "https://github.com/rishijatia/fantasy-pl-mcp/"
+  },
+  {
+    "category": "🎮 <a name=\"gaming\"></a>Gaming",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/Sarg338/steam-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Sarg338/steam-mcp) 🐍 🏠 🍎 🪟 🐧 - Read-only Steam, 41 tools. Store details, reviews that match the store page, sales, regional prices, community tags, live player counts, Steam Deck compatibility, one-call game briefs, side-by-side game comparisons and how each patch moved the reviews all need **no API key**; a free Steam Web API key adds library, playtime, friends, achievements, wishlist and inventory. Also does backlog analysis, taste-based recommendations and co-op night planning across a group's libraries.",
+    "name": "Sarg338/steam-mcp",
+    "tags": "[![Sarg338/steam",
+    "url": "https://github.com/Sarg338/steam-mcp"
   },
   {
     "category": "🎮 <a name=\"gaming\"></a>Gaming",
@@ -17494,6 +17620,13 @@
   },
   {
     "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
+    "description": "KB MCP server](https://glama.ai/mcp/servers/jaydubya818/Agentic-KB/badges/score.svg)](https://glama.ai/mcp/servers/jaydubya818/Agentic-KB) 📇 🏠 🍎 🪟 🐧 - Persistent engineering knowledge base with source-backed wiki, agent-runtime and repository-context tools, contradiction and staleness checks, and PIN-gated private scopes and writes.",
+    "name": "jaydubya818/Agentic-KB",
+    "tags": "[![jaydubya818/Agentic",
+    "url": "https://github.com/jaydubya818/Agentic-KB"
+  },
+  {
+    "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
     "description": "Simple memory for coding agents using DuckDB and VoyageAI.",
     "name": "jcdickinson/simplemem",
     "tags": "🏎️ ☁️ 🐧",
@@ -18016,6 +18149,13 @@
     "name": "remembra-ai/remembra",
     "tags": "[![remembra MCP server](https",
     "url": "https://github.com/remembra-ai/remembra"
+  },
+  {
+    "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
+    "description": "local MCP server](https://glama.ai/mcp/servers/renezander030/graphiti-local/badges/score.svg)](https://glama.ai/mcp/servers/renezander030/graphiti-local) 🐍 🏠 - Local temporal knowledge graph with six read-only retrieval tools, Ollama inference, embedded LadybugDB, and a separate human-approved CLI write queue.",
+    "name": "renezander030/graphiti-local",
+    "tags": "[![renezander030/graphiti",
+    "url": "https://github.com/renezander030/graphiti-local"
   },
   {
     "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
@@ -18936,6 +19076,13 @@
   },
   {
     "category": "🗺️ <a name=\"location-services\"></a>Location Services",
+    "description": "kuc/honest-imgw-mcp MCP server](https://glama.ai/mcp/servers/bartosz-kuc/honest-imgw-mcp/badges/score.svg)](https://glama.ai/mcp/servers/bartosz-kuc/honest-imgw-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Polish weather and hydrology data from the IMGW-PIB public API, no API key: hourly synoptic observations (`get_weather`), river levels and flow with a computed normal/warning/alarm status (`get_hydro`), active weather warnings (`get_warnings`), and station lists. Queries IMGW directly, no middleman.",
+    "name": "bartosz-kuc/honest-imgw-mcp",
+    "tags": "[![bartosz",
+    "url": "https://github.com/bartosz-kuc/honest-imgw-mcp"
+  },
+  {
+    "category": "🗺️ <a name=\"location-services\"></a>Location Services",
     "description": "mcp MCP server](https://glama.ai/mcp/servers/HasData/yellowpages-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/yellowpages-mcp) 📇 ☁️ - Yellow Pages local business search by category and location, with full listings including services, brands and payment methods.",
     "name": "HasData/yellowpages-mcp",
     "tags": "[![HasData/yellowpages",
@@ -19570,6 +19717,13 @@
     "name": "dhawalshah/tiktok-ads-mcp",
     "tags": "[![dhawalshah/tiktok",
     "url": "https://github.com/dhawalshah/tiktok-ads-mcp"
+  },
+  {
+    "category": "🎯 <a name=\"marketing\"></a>Marketing",
+    "description": "tag-manager-mcp MCP server](https://glama.ai/mcp/servers/dhawalshah/google-tag-manager-mcp/badges/score.svg)](https://glama.ai/mcp/servers/dhawalshah/google-tag-manager-mcp) 🏠 ☁️ - Google Tag Manager MCP server for managing tags, triggers, and variables from Claude, local or remote.",
+    "name": "dhawalshah/google-tag-manager-mcp",
+    "tags": "[![dhawalshah/google",
+    "url": "https://github.com/dhawalshah/google-tag-manager-mcp"
   },
   {
     "category": "🎯 <a name=\"marketing\"></a>Marketing",
@@ -20256,6 +20410,13 @@
     "name": "edgedelta/edgedelta-mcp-server",
     "tags": "🎖️ 🏎️ ☁️",
     "url": "https://github.com/edgedelta/edgedelta-mcp-server"
+  },
+  {
+    "category": "📊 <a name=\"monitoring\"></a>Monitoring",
+    "description": "Echo/mcp-netassist MCP server](https://glama.ai/mcp/servers/Edge-Echo/mcp-netassist/badges/score.svg)](https://glama.ai/mcp/servers/Edge-Echo/mcp-netassist) 📇 🏠 🪟 - Network and proxy diagnostics: GitHub reachability, system proxy status, local proxy port probing, DNS/TCP/HTTP checks, hosts conflict scan, and a doctor that suggests what to change.",
+    "name": "Edge-Echo/mcp-netassist",
+    "tags": "[![Edge",
+    "url": "https://github.com/Edge-Echo/mcp-netassist"
   },
   {
     "category": "📊 <a name=\"monitoring\"></a>Monitoring",
@@ -21964,6 +22125,13 @@
     "name": "smeet666/mcp-archiveorg",
     "tags": "[![smeet666/mcp",
     "url": "https://github.com/smeet666/mcp-archiveorg"
+  },
+  {
+    "category": "🔬 <a name=\"research\"></a>Research",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/SokolskyNikita/annas-mcp/badges/score.svg)](https://glama.ai/mcp/servers/SokolskyNikita/annas-mcp) 🏎️ 🏠 🍎 🪟 🐧 - Search Anna's Archive for books and journal articles by title, author, topic or DOI, and download the chosen file.",
+    "name": "SokolskyNikita/annas-mcp",
+    "tags": "[![SokolskyNikita/annas",
+    "url": "https://github.com/SokolskyNikita/annas-mcp"
   },
   {
     "category": "🔬 <a name=\"research\"></a>Research",
@@ -23815,6 +23983,13 @@
   },
   {
     "category": "🔎 <a name=\"search\"></a>Search & Data Extraction",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/retracn/automationnation-mcp/badges/score.svg)](https://glama.ai/mcp/servers/retracn/automationnation-mcp) 📇 ☁️ 🍎 🪟 🐧 - 17 data tools backed by Apify Actors: Google Flights and Hotels prices, Google Shopping, News, Images, Videos, Jobs and Trends, YouTube transcripts, Google Maps leads, Ads Transparency, app reviews and AI-search visibility; pay per result with a spending cap on every run.",
+    "name": "retracn/automationnation-mcp",
+    "tags": "[![retracn/automationnation",
+    "url": "https://github.com/retracn/automationnation-mcp"
+  },
+  {
+    "category": "🔎 <a name=\"search\"></a>Search & Data Extraction",
     "description": "ptitchef MCP server](https://glama.ai/mcp/servers/smeet666/mcp-ptitchef/badges/score.svg)](https://glama.ai/mcp/servers/smeet666/mcp-ptitchef) 📇 ☁️ 🍎 🪟 🐧 - Search Ptitchef recipes, browse ingredient categories, read ingredients, method, cost and nutrition, find dishes from fridge contents and rescale servings.",
     "name": "smeet666/mcp-ptitchef",
     "tags": "[![smeet666/mcp",
@@ -23917,6 +24092,13 @@
     "name": "nagameTW/mcp-server-malcolm",
     "tags": "[![nagameTW/mcp",
     "url": "https://github.com/nagameTW/mcp-server-malcolm"
+  },
+  {
+    "category": "🔒 <a name=\"security\"></a>Security",
+    "description": "netizen/cyber-chef-mcp MCP server](https://glama.ai/mcp/servers/noor202401938-netizen/cyber-chef-mcp/badges/score.svg)](https://glama.ai/mcp/servers/noor202401938-netizen/cyber-chef-mcp) 📇 🏠 🍎 🪟 🐧 - CyberChef MCP server providing 28 core data transformations, ciphers, hashing, JWT decoding, representation-calibrated Shannon entropy, and multi-layer payload deobfuscation for AI coding and security agents. `npx -y @noorfatima123456/cyber-chef-mcp`",
+    "name": "noor202401938-netizen/cyber-chef-mcp",
+    "tags": "[![noor202401938",
+    "url": "https://github.com/noor202401938-netizen/cyber-chef-mcp"
   },
   {
     "category": "🔒 <a name=\"security\"></a>Security",
@@ -26384,6 +26566,13 @@
   },
   {
     "category": "🏃 <a name=\"sports\"></a>Sports",
+    "description": "mcp MCP server](https://glama.ai/mcp/servers/Trainzilla/tzilla-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Trainzilla/tzilla-mcp) 📇 ☁️ 🏠 - Trainzilla for personal trainers: manage clients, workout and diet plans, check-ins, habits, sessions and billing (hosted OAuth endpoint or local).",
+    "name": "Trainzilla/tzilla-mcp",
+    "tags": "[![Trainzilla/tzilla",
+    "url": "https://github.com/Trainzilla/tzilla-mcp"
+  },
+  {
+    "category": "🏃 <a name=\"sports\"></a>Sports",
     "description": "mcp MCP server](https://glama.ai/mcp/servers/XWeaponX7/rundida-mcp/badges/score.svg)](https://glama.ai/mcp/servers/XWeaponX7/rundida-mcp) 📇 ☁️ - Running calculators: pace, time and distance, race time predictions (Riegel formula), heart rate training zones (Karvonen method) and marathon event data.",
     "name": "XWeaponX7/rundida-mcp",
     "tags": "[![XWeaponX7/rundida",
@@ -26647,6 +26836,13 @@
     "name": "ybouhjira/claude-code-tts",
     "tags": "🏎️ ☁️ 🍎 🪟 🐧",
     "url": "https://github.com/ybouhjira/claude-code-tts"
+  },
+  {
+    "category": "🚆 <a name=\"travel-and-transportation\"></a>Travel & Transportation",
+    "description": "net/cuqu-skill MCP server](https://glama.ai/mcp/servers/cuqu-net/cuqu-skill/badges/score.svg)](https://glama.ai/mcp/servers/cuqu-net/cuqu-skill) ☁️ 🏠 - Find, book, and pay for local offline social activities (board games, badminton, hiking, frisbee and 100+ hobby categories) across cities in China via natural language. Hosted MCP gateway (agent.cuqu.net) with per-user API keys; also supports organizer-side event creation and venue search.",
+    "name": "cuqu-net/cuqu-skill",
+    "tags": "[![cuqu",
+    "url": "https://github.com/cuqu-net/cuqu-skill"
   },
   {
     "category": "🚆 <a name=\"travel-and-transportation\"></a>Travel & Transportation",
@@ -27305,6 +27501,13 @@
     "name": "A1-x-Tech/mcp-google-slides",
     "tags": "[![A1",
     "url": "https://github.com/A1-x-Tech/mcp-google-slides"
+  },
+  {
+    "category": "🏢 <a name=\"workplace-and-productivity\"></a>Workplace & Productivity",
+    "description": "x-Tech/mcp-google-tasks MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-tasks/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-tasks) 📇 ☁️ - Google Tasks API: manage task lists, and create and organize tasks with due dates, notes and subtasks.",
+    "name": "A1-x-Tech/mcp-google-tasks",
+    "tags": "[![A1",
+    "url": "https://github.com/A1-x-Tech/mcp-google-tasks"
   },
   {
     "category": "🏢 <a name=\"workplace-and-productivity\"></a>Workplace & Productivity",
