@@ -19251,6 +19251,13 @@
   },
   {
     "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
+    "description": "//glama.ai/mcp/servers/jackjin1997/markindex/badges/score.svg)](https://glama.ai/mcp/servers/jackjin1997/markindex) 📇 🏠 🍎 🐧 - Vectorless, structure-first retrieval over large Markdown libraries: walk library, folder, document and section trees, read original text with line numbers for citations, and fall back to mixed Chinese/English BM25 search. Five read-only tools, no embeddings, no API key.",
+    "name": "jackjin1997/markindex",
+    "tags": "[![jackjin1997/markindex MCP server](https",
+    "url": "https://github.com/jackjin1997/markindex"
+  },
+  {
+    "category": "🧠 <a name=\"knowledge--memory\"></a>Knowledge & Memory",
     "description": "mcp MCP server](https://glama.ai/mcp/servers/jaimenbell/rag-mcp/badges/score.svg)](https://glama.ai/mcp/servers/jaimenbell/rag-mcp) 🐍 🏠 - Minimal local RAG that vector-searches a document corpus and returns cited passages.",
     "name": "jaimenbell/rag-mcp",
     "tags": "[![jaimenbell/rag",
