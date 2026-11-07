@@ -4551,6 +4551,13 @@
   },
   {
     "category": "🤖 <a name=\"coding-agents\"></a>Coding Agents",
+    "description": "Deepak/neurocode MCP server](https://glama.ai/mcp/servers/Arkz-Deepak/neurocode/badges/score.svg)](https://glama.ai/mcp/servers/Arkz-Deepak/neurocode) 🐍 🏠 🍎 🪟 🐧 - In-memory Code Property Graph context slicer for local models (Ollama, Cursor, Claude Desktop): extracts sub-1,200 token reachability closures for autonomous repository bug repair on consumer edge hardware (4GB–8GB VRAM) without cloud API dependency.",
+    "name": "Arkz-Deepak/neurocode",
+    "tags": "[![Arkz",
+    "url": "https://github.com/Arkz-Deepak/neurocode"
+  },
+  {
+    "category": "🤖 <a name=\"coding-agents\"></a>Coding Agents",
     "description": "//glama.ai/mcp/servers/abnegate/magents/badges/score.svg)](https://glama.ai/mcp/servers/abnegate/magents) 🦀 🏠 🍎 🐧 - Shared session bus for coding agents such as Claude Code, Codex and Grok: list, read, hand off, message and spawn live agent sessions via MCP or CLI.",
     "name": "abnegate/magents",
     "tags": "[![abnegate/magents MCP server](https",
