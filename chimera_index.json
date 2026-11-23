@@ -1940,6 +1940,13 @@
   },
   {
     "category": "🎨 <a name=\"art-and-culture\"></a>Art & Culture",
+    "description": "//glama.ai/mcp/servers/taddeimania/lathe/badges/score.svg)](https://glama.ai/mcp/servers/taddeimania/lathe) 🎖️ 🌊 🏠 🍎 🪟 🐧 - A free, open-source DAW with its own MCP server: read the session, play any bars, build tracks and plug-in chains, write MIDI in a compact note notation, mix with channel EQ and sends, set the song's keys, convert audio to MIDI and export audio, each change one undo step in the app.",
+    "name": "taddeimania/lathe",
+    "tags": "[![taddeimania/lathe MCP server](https",
+    "url": "https://github.com/taddeimania/lathe"
+  },
+  {
+    "category": "🎨 <a name=\"art-and-culture\"></a>Art & Culture",
     "description": "alphabanana MCP server](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana/badges/score.svg)](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - Generate image assets with Google Gemini (Nano Banana 2 and Pro): transparent PNG/WebP, exact resizing and cropping, reference images and Search grounding.",
     "name": "tasopen/mcp-alphabanana",
     "tags": "[![mcp",
@@ -26206,6 +26213,13 @@
     "name": "zaharajabeen13-create/ai-rete-rag-mcp",
     "tags": "[![zaharajabeen13",
     "url": "https://github.com/zaharajabeen13-create/ai-rete-rag-mcp"
+  },
+  {
+    "category": "🔎 <a name=\"search\"></a>Search & Data Extraction",
+    "description": "server MCP server](https://glama.ai/mcp/servers/scrapecrate/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/scrapecrate/mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - One API key for YouTube transcripts and metadata, Google Maps places and reviews, Trustpilot reviews and the Meta Ad Library, via the ScrapeCrate API.",
+    "name": "scrapecrate/mcp-server",
+    "tags": "[![scrapecrate/mcp",
+    "url": "https://github.com/scrapecrate/mcp-server"
   },
   {
     "category": "🔎 <a name=\"search\"></a>Search & Data Extraction",
