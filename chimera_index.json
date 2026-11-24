@@ -9073,6 +9073,13 @@
   },
   {
     "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
+    "description": "pcam/pcam-live MCP server](https://glama.ai/mcp/servers/neoma-pcam/pcam-live/badges/score.svg)](https://glama.ai/mcp/servers/neoma-pcam/pcam-live) 🎖️ 🐍 ☁️ - Connects Frontier LLMs directly to a physical hardware enclave for sub-millisecond (0.85ms) non-linear physical equilibrium, mechanical resonance damping, and cryptographic PUF attestation via cloud.",
+    "name": "neoma-pcam/pcam-live",
+    "tags": "[![neoma",
+    "url": "https://github.com/neoma-pcam/pcam-live"
+  },
+  {
+    "category": "💻 <a name=\"developer-tools\"></a>Developer Tools",
     "description": "spec/aoci-code MCP server](https://glama.ai/mcp/servers/aoci-spec/aoci-code/badges/score.svg)](https://glama.ai/mcp/servers/aoci-spec/aoci-code) 🏎️ 🏠 🍎 🪟 🐧 - Local-first MCP server and CLI that keeps a persistent, Git-versioned index of the whole codebase and database schema, written by the coding agent and flagged when the code drifts, so Claude Code, Codex, Cursor and opencode start each task with the full system in view.",
     "name": "aoci-spec/aoci-code",
     "tags": "[![aoci",
@@ -17295,6 +17302,13 @@
     "name": "louischeung007/ethereum-wallet-mcp-server",
     "tags": "[![louischeung007/ethereum",
     "url": "https://github.com/louischeung007/ethereum-wallet-mcp-server"
+  },
+  {
+    "category": "💰 <a name=\"finance--fintech\"></a>Finance & Fintech",
+    "description": "network/spr MCP server](https://glama.ai/mcp/servers/luca-network/spr/badges/score.svg)](https://glama.ai/mcp/servers/luca-network/spr) 📇 🏠 🍎 🪟 🐧 - Records each payment an AI agent makes as a signed record on your own machine: what it declared before paying, what it paid, and whether it stayed inside its limit. Anyone can check the records. `npx -y @luca-network/spr-mcp`",
+    "name": "luca-network/spr",
+    "tags": "[![luca",
+    "url": "https://github.com/luca-network/spr"
   },
   {
     "category": "💰 <a name=\"finance--fintech\"></a>Finance & Fintech",
