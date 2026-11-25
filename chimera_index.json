@@ -27714,6 +27714,13 @@
   },
   {
     "category": "🔎 <a name=\"search\"></a>Search & Data Extraction",
+    "description": "public-intel MCP server](https://glama.ai/mcp/servers/pecopeko/mcp-public-intel/badges/score.svg)](https://glama.ai/mcp/servers/pecopeko/mcp-public-intel) 🐍 ☁️ 🍎 🪟 🐧 - Zero-API-key public intelligence extraction across SEC EDGAR XBRL financials and Form D raises, Greenhouse/Lever/Ashby engineering job boards, Shopify catalogs, Substack full-text Markdown, and Podcasting 2.0 RSS transcripts.",
+    "name": "pecopeko/mcp-public-intel",
+    "tags": "[![pecopeko/mcp",
+    "url": "https://github.com/pecopeko/mcp-public-intel"
+  },
+  {
+    "category": "🔎 <a name=\"search\"></a>Search & Data Extraction",
     "description": "Natural language API discovery: search API capabilities and get endpoints, auth setup and code snippets, with auto-discovery of new APIs.",
     "name": "peter-j-thompson/semanticapi-mcp",
     "tags": "🐍 ☁️",
