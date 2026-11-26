@@ -14568,6 +14568,13 @@
   },
   {
     "category": "📂 <a name=\"file-systems\"></a>File Systems",
+    "description": "//glama.ai/mcp/servers/ethereaglehq/privatools-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ethereaglehq/privatools-mcp) 📇 ☁️ 🍎 🪟 🐧 - Privacy-first file tools: 140+ stateless PDF, image, audio, video, OCR and document operations (compress, merge, split, convert, OCR, watermark and more) via the PrivaTools API, exposed through 6 progressive-discovery tools. Local stdio via `npx -y @privatools/mcp` (optional folder allow-list) or hosted at `https://api.privatools.me/mcp`; no account needed.",
+    "name": "ethereaglehq/privatools-mcp",
+    "tags": "[![@privatools/mcp MCP server](https",
+    "url": "https://github.com/ethereaglehq/privatools-mcp"
+  },
+  {
+    "category": "📂 <a name=\"file-systems\"></a>File Systems",
     "description": "mcp MCP server](https://glama.ai/mcp/servers/ezpzfile/ezpzfile-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ezpzfile/ezpzfile-mcp) 📇 🏠 🍎 🪟 🐧 - Local document and image tools: read and convert PDF, DOCX, HWP and EML, edit PDFs, resize images, strip EXIF, remove backgrounds and make QR codes.",
     "name": "ezpzfile/ezpzfile-mcp",
     "tags": "[![ezpzfile/ezpzfile",
